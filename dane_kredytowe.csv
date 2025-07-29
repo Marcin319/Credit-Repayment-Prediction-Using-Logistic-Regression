@@ -1,0 +1,1001 @@
+wiek,dochód,liczba_dzieci,lata_w_pracy,ma_kartę,ma_konto,miał_kredyt,spóźnienia,wykształcenie,status_zawodowy,miasto,stan_cywilny,zawód,czy_spłaci
+44,8798,1,10,1,1,0,0,wyższe,kadra zarządzająca,Warszawa,singiel,księgowy,1
+38,7849,1,8,1,1,1,0,podstawowe,umowa o pracę,Warszawa,singiel,nauczyciel,1
+46,6119,2,9,0,0,0,0,średnie,działalność,Kraków,singiel,księgowy,0
+55,4706,2,13,1,1,1,0,wyższe,umowa o pracę,Kraków,żonaty,programista,1
+37,7396,0,10,0,1,0,0,wyższe,umowa o pracę,Wrocław,wdowiec,sprzedawca,1
+37,6786,2,4,1,1,1,0,wyższe,umowa o pracę,Poznań,żonaty,sprzedawca,1
+55,7790,0,3,1,1,1,0,wyższe,umowa o pracę,Gdańsk,żonaty,programista,1
+47,7270,0,2,1,1,1,0,wyższe,kadra zarządzająca,Poznań,singiel,lekarz,1
+35,8099,1,17,1,1,0,0,średnie,umowa zlecenie,Gdańsk,żonaty,kierowca,1
+45,4929,0,14,1,1,1,0,średnie,działalność,Warszawa,singiel,programista,1
+35,8634,0,9,1,1,1,0,podstawowe,kadra zarządzająca,Kraków,żonaty,księgowy,1
+35,6395,3,7,0,1,1,0,podstawowe,umowa o pracę,Kraków,rozwiedziony,sprzedawca,1
+42,10150,1,7,1,0,1,1,średnie,kadra zarządzająca,Warszawa,singiel,nauczyciel,0
+20,4621,0,15,1,1,1,0,podstawowe,umowa o pracę,Warszawa,żonaty,sprzedawca,1
+22,9471,3,19,0,1,1,0,średnie,kadra zarządzająca,Gdańsk,singiel,kierowca,1
+34,6395,1,6,1,1,1,0,podstawowe,umowa o pracę,Warszawa,singiel,sprzedawca,1
+29,4697,2,15,1,1,1,1,podstawowe,bezrobotny,Gdańsk,singiel,kierowca,0
+43,5032,2,10,1,1,1,0,wyższe,kadra zarządzająca,Poznań,singiel,programista,1
+30,5359,1,8,0,1,1,0,podstawowe,umowa o pracę,Kraków,singiel,sprzedawca,1
+25,6848,3,17,0,1,0,0,wyższe,umowa o pracę,Kraków,singiel,lekarz,1
+54,7045,1,9,0,1,1,0,podstawowe,umowa o pracę,Kraków,żonaty,księgowy,1
+37,4852,1,11,1,0,1,0,wyższe,umowa zlecenie,Poznań,singiel,lekarz,0
+40,5951,1,11,0,1,0,0,wyższe,umowa o pracę,Poznań,żonaty,księgowy,0
+25,10284,0,1,1,1,1,1,średnie,działalność,Wrocław,rozwiedziony,sprzedawca,0
+34,9455,1,11,0,1,1,0,średnie,bezrobotny,Gdańsk,żonaty,sprzedawca,1
+41,6872,1,7,1,1,0,0,podstawowe,umowa zlecenie,Gdańsk,singiel,księgowy,1
+28,6076,0,2,1,1,1,0,wyższe,bezrobotny,Wrocław,singiel,nauczyciel,1
+43,6240,1,7,1,1,0,0,wyższe,umowa o pracę,Kraków,rozwiedziony,sprzedawca,1
+33,7227,0,7,0,1,0,1,wyższe,umowa o pracę,Gdańsk,żonaty,nauczyciel,0
+37,3954,1,15,1,1,1,0,średnie,działalność,Gdańsk,żonaty,nauczyciel,0
+33,5485,1,4,0,1,0,0,średnie,kadra zarządzająca,Kraków,singiel,księgowy,0
+58,2662,0,6,1,1,0,0,wyższe,umowa o pracę,Warszawa,żonaty,nauczyciel,0
+39,6798,1,11,1,1,1,1,średnie,umowa zlecenie,Warszawa,singiel,nauczyciel,1
+29,7294,0,3,0,1,0,0,średnie,kadra zarządzająca,Wrocław,rozwiedziony,programista,0
+48,5033,1,6,1,1,1,0,podstawowe,działalność,Poznań,rozwiedziony,lekarz,1
+27,9147,1,1,1,1,1,0,wyższe,umowa o pracę,Gdańsk,singiel,nauczyciel,1
+42,3548,3,14,0,1,0,0,podstawowe,umowa o pracę,Gdańsk,żonaty,lekarz,0
+20,3071,2,8,1,1,0,1,średnie,kadra zarządzająca,Wrocław,singiel,nauczyciel,0
+26,6448,2,9,0,1,1,0,średnie,umowa o pracę,Wrocław,żonaty,lekarz,1
+41,8094,2,14,1,1,1,0,wyższe,umowa o pracę,Gdańsk,rozwiedziony,sprzedawca,1
+47,9367,0,6,1,1,0,0,średnie,umowa o pracę,Kraków,żonaty,sprzedawca,1
+41,5082,5,8,0,1,1,0,średnie,bezrobotny,Kraków,singiel,lekarz,1
+38,8157,0,4,1,0,0,0,podstawowe,umowa o pracę,Poznań,singiel,nauczyciel,0
+36,5922,0,4,1,1,1,1,wyższe,umowa o pracę,Gdańsk,rozwiedziony,programista,0
+25,5654,2,5,1,1,0,0,wyższe,umowa zlecenie,Gdańsk,żonaty,lekarz,1
+32,7767,2,7,1,1,0,1,wyższe,bezrobotny,Gdańsk,żonaty,kierowca,0
+35,7304,1,8,1,1,0,0,średnie,umowa zlecenie,Gdańsk,singiel,programista,1
+50,2847,0,11,1,1,1,0,wyższe,umowa o pracę,Wrocław,singiel,kierowca,0
+43,8953,1,5,1,1,1,0,średnie,działalność,Warszawa,wdowiec,lekarz,1
+22,8760,0,11,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,żonaty,nauczyciel,1
+43,4748,2,12,1,1,0,1,średnie,umowa zlecenie,Warszawa,żonaty,kierowca,0
+36,6791,1,7,1,1,0,1,średnie,umowa o pracę,Kraków,żonaty,lekarz,0
+33,6988,2,5,1,1,0,0,wyższe,kadra zarządzająca,Poznań,żonaty,programista,1
+46,6521,0,10,1,1,1,0,średnie,umowa zlecenie,Kraków,singiel,nauczyciel,1
+50,4899,2,8,1,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,kierowca,1
+49,4656,0,11,1,1,1,1,średnie,działalność,Kraków,żonaty,lekarz,0
+31,5948,2,17,1,1,0,1,podstawowe,bezrobotny,Wrocław,żonaty,nauczyciel,0
+36,8345,1,10,1,1,1,0,średnie,działalność,Warszawa,żonaty,nauczyciel,1
+43,7087,1,6,1,1,0,0,średnie,działalność,Gdańsk,rozwiedziony,sprzedawca,1
+49,5258,1,5,0,1,1,0,podstawowe,bezrobotny,Wrocław,singiel,nauczyciel,0
+35,7543,1,5,1,1,0,0,średnie,bezrobotny,Warszawa,singiel,lekarz,1
+38,1500,0,2,1,0,1,0,średnie,bezrobotny,Wrocław,wdowiec,programista,0
+28,8297,1,14,1,1,0,0,wyższe,umowa zlecenie,Kraków,żonaty,księgowy,1
+28,2520,1,0,0,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,sprzedawca,0
+48,5275,1,12,0,1,1,0,wyższe,umowa o pracę,Kraków,żonaty,lekarz,1
+53,3760,0,5,1,1,1,1,wyższe,umowa zlecenie,Poznań,żonaty,lekarz,0
+39,3410,0,7,1,1,1,0,wyższe,kadra zarządzająca,Gdańsk,singiel,lekarz,1
+50,8321,1,5,0,1,1,0,średnie,umowa o pracę,Kraków,żonaty,kierowca,1
+43,5064,1,17,1,0,1,0,średnie,bezrobotny,Gdańsk,rozwiedziony,kierowca,1
+33,6693,1,10,1,1,1,0,wyższe,umowa zlecenie,Warszawa,żonaty,programista,1
+43,5906,2,13,0,1,0,0,średnie,umowa o pracę,Gdańsk,żonaty,lekarz,1
+55,6954,1,16,1,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,kierowca,1
+39,6153,4,10,1,1,1,0,średnie,umowa zlecenie,Warszawa,singiel,kierowca,1
+55,3434,0,4,1,1,0,0,podstawowe,umowa zlecenie,Kraków,singiel,kierowca,0
+18,7992,2,8,1,1,1,0,wyższe,działalność,Gdańsk,singiel,programista,1
+48,5012,0,6,1,1,0,0,średnie,kadra zarządzająca,Wrocław,wdowiec,programista,1
+40,2886,0,7,1,1,0,0,średnie,umowa zlecenie,Gdańsk,żonaty,lekarz,0
+37,5143,0,9,1,1,0,0,średnie,umowa o pracę,Kraków,żonaty,sprzedawca,1
+40,9001,2,9,0,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,lekarz,0
+20,7700,1,12,0,1,1,0,podstawowe,umowa o pracę,Kraków,singiel,kierowca,1
+37,5302,0,12,1,0,1,0,średnie,umowa o pracę,Poznań,wdowiec,księgowy,1
+43,5301,3,9,1,1,1,0,wyższe,kadra zarządzająca,Gdańsk,singiel,kierowca,1
+54,5356,3,12,0,1,1,1,średnie,umowa o pracę,Gdańsk,singiel,nauczyciel,0
+34,10153,1,7,1,1,0,0,wyższe,umowa o pracę,Warszawa,żonaty,księgowy,1
+31,6763,0,16,0,0,1,0,średnie,umowa o pracę,Gdańsk,rozwiedziony,księgowy,1
+34,6860,0,7,1,0,1,0,średnie,kadra zarządzająca,Wrocław,rozwiedziony,lekarz,1
+49,8060,0,15,1,1,1,0,podstawowe,działalność,Wrocław,singiel,kierowca,1
+43,6477,2,2,1,1,1,0,średnie,bezrobotny,Kraków,rozwiedziony,kierowca,1
+34,5481,0,8,1,1,1,0,wyższe,umowa zlecenie,Warszawa,singiel,sprzedawca,1
+45,5607,6,8,0,1,1,0,wyższe,umowa o pracę,Poznań,singiel,nauczyciel,1
+40,5856,1,11,1,1,1,1,średnie,umowa zlecenie,Kraków,rozwiedziony,lekarz,0
+49,5925,0,14,0,1,0,0,średnie,umowa o pracę,Warszawa,rozwiedziony,programista,0
+32,7455,0,3,1,0,0,0,wyższe,działalność,Warszawa,żonaty,lekarz,1
+36,6103,2,4,0,1,1,1,średnie,umowa o pracę,Kraków,żonaty,księgowy,0
+36,7465,0,2,1,1,1,0,podstawowe,kadra zarządzająca,Kraków,rozwiedziony,lekarz,1
+25,5838,2,16,1,0,1,0,wyższe,umowa zlecenie,Gdańsk,żonaty,sprzedawca,1
+42,6157,1,11,1,1,1,0,średnie,działalność,Poznań,rozwiedziony,lekarz,1
+42,2003,2,4,1,1,0,0,wyższe,działalność,Wrocław,żonaty,sprzedawca,1
+40,7832,2,7,1,1,0,0,średnie,umowa o pracę,Gdańsk,wdowiec,księgowy,1
+37,6692,0,15,0,1,1,0,wyższe,umowa o pracę,Warszawa,wdowiec,sprzedawca,1
+25,7996,0,8,0,0,1,0,średnie,umowa zlecenie,Poznań,singiel,kierowca,1
+35,1500,0,8,1,0,0,0,średnie,działalność,Poznań,rozwiedziony,programista,0
+36,10176,1,6,0,1,1,1,średnie,umowa o pracę,Kraków,żonaty,księgowy,0
+31,5720,0,4,0,1,1,0,średnie,umowa zlecenie,Poznań,singiel,sprzedawca,1
+38,8216,2,15,1,1,1,0,podstawowe,umowa o pracę,Poznań,żonaty,nauczyciel,1
+44,3920,2,18,1,1,1,1,średnie,umowa o pracę,Warszawa,singiel,księgowy,0
+58,7225,0,5,1,1,0,0,podstawowe,umowa zlecenie,Gdańsk,żonaty,nauczyciel,1
+41,3893,2,17,1,1,1,0,wyższe,bezrobotny,Poznań,rozwiedziony,programista,1
+42,4752,1,7,1,1,1,0,średnie,umowa o pracę,Kraków,singiel,sprzedawca,0
+39,9828,0,12,0,1,1,0,podstawowe,umowa o pracę,Gdańsk,żonaty,księgowy,1
+20,5618,1,17,1,1,0,0,podstawowe,działalność,Kraków,rozwiedziony,księgowy,1
+39,6434,0,9,1,1,1,0,podstawowe,kadra zarządzająca,Poznań,żonaty,programista,1
+40,7740,4,8,1,0,0,1,średnie,umowa o pracę,Gdańsk,singiel,kierowca,0
+64,6991,1,14,0,1,0,1,podstawowe,działalność,Poznań,żonaty,nauczyciel,0
+38,6300,5,4,1,1,1,1,wyższe,umowa o pracę,Warszawa,żonaty,księgowy,0
+43,6729,1,15,0,1,0,1,podstawowe,umowa o pracę,Gdańsk,żonaty,lekarz,0
+39,10806,0,10,0,1,1,0,średnie,umowa zlecenie,Kraków,rozwiedziony,nauczyciel,1
+28,5884,2,7,0,1,0,0,wyższe,umowa o pracę,Warszawa,żonaty,sprzedawca,1
+51,6402,6,6,1,1,1,1,wyższe,umowa o pracę,Wrocław,rozwiedziony,programista,0
+47,8101,0,3,1,1,0,0,podstawowe,bezrobotny,Kraków,żonaty,nauczyciel,1
+47,8211,2,7,1,1,0,1,wyższe,umowa o pracę,Poznań,singiel,lekarz,0
+30,8374,2,8,1,0,0,0,średnie,działalność,Kraków,żonaty,lekarz,0
+54,7277,2,4,1,1,1,0,wyższe,umowa o pracę,Wrocław,żonaty,programista,1
+25,3713,0,9,0,1,1,0,średnie,umowa o pracę,Kraków,żonaty,programista,0
+45,9266,0,12,0,1,0,1,średnie,działalność,Warszawa,singiel,nauczyciel,0
+61,3707,2,8,1,1,1,0,wyższe,działalność,Kraków,singiel,sprzedawca,1
+30,6605,1,13,1,1,1,0,średnie,umowa zlecenie,Gdańsk,singiel,kierowca,1
+34,4491,1,5,1,1,1,0,średnie,umowa zlecenie,Wrocław,singiel,lekarz,1
+40,5871,1,15,0,1,0,0,średnie,umowa o pracę,Kraków,żonaty,programista,1
+34,6657,1,10,0,1,1,0,podstawowe,umowa o pracę,Wrocław,singiel,kierowca,1
+24,6642,2,17,0,1,0,0,podstawowe,umowa zlecenie,Warszawa,żonaty,kierowca,1
+40,6843,0,22,1,1,0,0,podstawowe,umowa zlecenie,Gdańsk,singiel,kierowca,1
+29,9227,3,7,1,1,1,0,średnie,działalność,Poznań,singiel,sprzedawca,1
+44,6907,1,7,1,1,1,0,średnie,umowa o pracę,Kraków,żonaty,programista,1
+30,5511,1,8,1,1,0,0,średnie,kadra zarządzająca,Warszawa,singiel,lekarz,1
+55,7928,3,12,1,1,0,0,podstawowe,działalność,Wrocław,rozwiedziony,programista,1
+32,8378,1,16,1,1,1,0,średnie,kadra zarządzająca,Wrocław,singiel,nauczyciel,1
+36,3544,1,6,0,1,1,1,wyższe,umowa zlecenie,Warszawa,żonaty,lekarz,0
+48,7194,1,11,1,1,0,0,średnie,działalność,Kraków,rozwiedziony,programista,1
+27,7402,0,9,1,1,1,0,średnie,bezrobotny,Poznań,żonaty,lekarz,1
+42,5404,1,13,0,1,0,0,wyższe,umowa o pracę,Kraków,singiel,nauczyciel,1
+53,8751,1,17,1,1,0,0,wyższe,umowa o pracę,Gdańsk,żonaty,księgowy,1
+23,5699,0,8,1,1,1,0,średnie,umowa zlecenie,Kraków,żonaty,lekarz,1
+41,6251,0,1,1,1,0,0,wyższe,działalność,Gdańsk,wdowiec,księgowy,1
+42,5653,0,13,1,1,0,0,średnie,działalność,Wrocław,rozwiedziony,kierowca,1
+47,6031,1,5,1,1,1,0,wyższe,bezrobotny,Gdańsk,singiel,sprzedawca,1
+27,3807,2,9,1,1,1,0,średnie,umowa o pracę,Poznań,wdowiec,nauczyciel,0
+26,3119,1,13,0,1,0,0,średnie,umowa o pracę,Warszawa,singiel,lekarz,0
+45,9189,1,11,0,1,1,0,podstawowe,umowa o pracę,Gdańsk,singiel,nauczyciel,1
+42,4306,2,9,0,1,1,0,wyższe,działalność,Kraków,rozwiedziony,kierowca,0
+42,4017,2,7,0,1,0,0,średnie,umowa zlecenie,Gdańsk,singiel,księgowy,0
+43,1693,1,0,1,1,1,1,średnie,kadra zarządzająca,Wrocław,singiel,sprzedawca,0
+33,4722,0,13,1,1,0,0,średnie,umowa zlecenie,Gdańsk,singiel,nauczyciel,0
+42,3353,1,8,0,1,1,0,wyższe,umowa o pracę,Poznań,żonaty,księgowy,0
+42,9284,1,17,1,1,1,0,wyższe,umowa o pracę,Gdańsk,żonaty,kierowca,1
+32,8019,0,11,0,1,1,1,średnie,umowa zlecenie,Poznań,żonaty,kierowca,0
+58,4623,0,7,1,1,0,0,średnie,umowa zlecenie,Kraków,singiel,kierowca,0
+44,10504,0,15,0,1,1,0,średnie,działalność,Wrocław,żonaty,księgowy,1
+28,7963,2,15,1,1,1,0,średnie,działalność,Warszawa,rozwiedziony,lekarz,1
+46,5350,2,8,0,1,0,1,wyższe,umowa zlecenie,Kraków,rozwiedziony,programista,0
+30,1500,3,15,1,0,0,1,podstawowe,umowa o pracę,Kraków,singiel,nauczyciel,0
+47,10581,2,7,1,1,0,1,średnie,bezrobotny,Warszawa,wdowiec,programista,0
+51,3220,1,10,1,1,1,0,średnie,umowa zlecenie,Gdańsk,żonaty,kierowca,1
+31,2709,0,12,0,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,programista,0
+49,8045,1,13,0,1,0,0,średnie,bezrobotny,Gdańsk,singiel,księgowy,1
+44,10879,1,13,0,1,1,0,średnie,działalność,Wrocław,singiel,kierowca,1
+48,8768,0,8,1,1,1,1,podstawowe,umowa o pracę,Kraków,żonaty,kierowca,0
+58,7127,1,15,0,1,1,0,średnie,kadra zarządzająca,Poznań,singiel,sprzedawca,1
+37,7189,1,9,1,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,sprzedawca,1
+32,7706,0,7,1,0,1,0,podstawowe,kadra zarządzająca,Kraków,singiel,księgowy,1
+31,7517,0,7,1,1,0,0,podstawowe,umowa o pracę,Gdańsk,rozwiedziony,księgowy,1
+31,6562,2,19,1,1,0,0,wyższe,umowa o pracę,Warszawa,singiel,programista,1
+39,6208,3,6,0,1,1,0,średnie,kadra zarządzająca,Poznań,rozwiedziony,nauczyciel,1
+43,5874,1,16,0,1,0,0,średnie,umowa o pracę,Kraków,rozwiedziony,programista,0
+42,4492,2,4,1,1,0,0,wyższe,bezrobotny,Kraków,singiel,księgowy,0
+48,5438,2,12,1,1,0,0,średnie,umowa o pracę,Wrocław,żonaty,nauczyciel,1
+40,2614,2,11,0,1,0,0,średnie,kadra zarządzająca,Kraków,singiel,programista,0
+54,5803,2,18,0,1,0,0,średnie,działalność,Kraków,rozwiedziony,lekarz,1
+37,4022,2,6,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,lekarz,1
+67,3792,3,5,0,1,0,0,średnie,umowa o pracę,Poznań,singiel,nauczyciel,0
+46,6359,0,9,1,1,0,0,średnie,kadra zarządzająca,Warszawa,singiel,sprzedawca,1
+31,8784,1,18,1,1,0,0,wyższe,bezrobotny,Gdańsk,singiel,nauczyciel,1
+29,7836,2,5,0,1,1,0,wyższe,umowa o pracę,Poznań,rozwiedziony,programista,1
+44,2858,1,0,0,1,1,1,podstawowe,umowa zlecenie,Warszawa,żonaty,kierowca,0
+37,4020,2,10,0,1,0,1,podstawowe,umowa o pracę,Kraków,rozwiedziony,lekarz,0
+47,7881,2,14,1,1,1,1,średnie,umowa o pracę,Warszawa,singiel,kierowca,0
+44,4035,4,4,1,1,0,0,średnie,umowa zlecenie,Warszawa,singiel,lekarz,0
+39,5550,1,14,1,1,0,1,podstawowe,umowa zlecenie,Warszawa,wdowiec,programista,0
+31,7100,1,4,1,1,0,1,wyższe,umowa o pracę,Warszawa,singiel,lekarz,0
+24,4063,4,9,1,1,0,1,średnie,umowa zlecenie,Poznań,rozwiedziony,nauczyciel,0
+35,6210,2,13,0,1,0,0,wyższe,umowa zlecenie,Gdańsk,singiel,kierowca,0
+48,3331,0,4,0,1,1,0,wyższe,działalność,Warszawa,singiel,księgowy,0
+42,4797,2,10,1,1,0,1,wyższe,umowa zlecenie,Wrocław,żonaty,kierowca,0
+27,6639,0,16,0,1,1,0,średnie,umowa o pracę,Kraków,wdowiec,programista,1
+41,2814,1,12,0,1,0,0,średnie,kadra zarządzająca,Kraków,wdowiec,księgowy,0
+43,6880,2,6,1,1,0,1,średnie,umowa zlecenie,Kraków,singiel,kierowca,0
+31,5960,0,17,1,1,1,0,podstawowe,umowa o pracę,Kraków,singiel,programista,1
+41,7104,4,13,1,1,1,0,średnie,umowa o pracę,Kraków,żonaty,sprzedawca,1
+40,6447,3,0,1,1,0,0,średnie,działalność,Warszawa,żonaty,nauczyciel,1
+28,8728,2,14,0,1,1,1,podstawowe,kadra zarządzająca,Gdańsk,żonaty,lekarz,0
+43,6250,0,7,1,1,0,0,średnie,kadra zarządzająca,Wrocław,singiel,lekarz,1
+45,5141,1,10,0,1,0,0,wyższe,działalność,Poznań,wdowiec,lekarz,0
+50,6244,1,15,1,1,0,0,podstawowe,umowa zlecenie,Wrocław,żonaty,sprzedawca,1
+50,7086,3,7,1,1,0,0,podstawowe,bezrobotny,Poznań,rozwiedziony,nauczyciel,1
+26,6097,2,1,0,1,0,0,średnie,umowa o pracę,Poznań,żonaty,kierowca,0
+30,6081,1,17,1,1,0,1,wyższe,umowa zlecenie,Wrocław,żonaty,kierowca,0
+45,4596,1,15,0,1,1,1,średnie,umowa o pracę,Warszawa,wdowiec,nauczyciel,0
+45,4674,1,9,1,1,0,0,podstawowe,umowa o pracę,Kraków,żonaty,księgowy,0
+45,3194,1,14,1,1,1,0,średnie,bezrobotny,Warszawa,rozwiedziony,nauczyciel,1
+70,9499,1,8,1,1,0,0,wyższe,działalność,Kraków,wdowiec,lekarz,1
+45,3512,1,10,1,1,1,0,wyższe,umowa zlecenie,Gdańsk,żonaty,kierowca,1
+51,4614,0,9,0,1,1,0,średnie,umowa o pracę,Poznań,żonaty,nauczyciel,0
+49,4563,1,8,1,1,0,1,średnie,umowa o pracę,Wrocław,singiel,kierowca,0
+46,7789,1,11,1,1,0,1,średnie,umowa o pracę,Gdańsk,singiel,nauczyciel,0
+36,5410,1,3,0,1,1,0,podstawowe,umowa o pracę,Kraków,singiel,programista,1
+47,8495,2,8,1,1,1,0,średnie,bezrobotny,Warszawa,singiel,lekarz,1
+32,4653,2,11,1,1,0,0,wyższe,umowa o pracę,Wrocław,singiel,nauczyciel,1
+37,6557,2,19,0,1,0,0,wyższe,działalność,Poznań,singiel,sprzedawca,1
+35,4329,0,4,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,singiel,nauczyciel,1
+40,10290,0,12,0,1,0,1,podstawowe,umowa o pracę,Poznań,żonaty,programista,0
+63,3624,2,13,1,1,1,1,średnie,umowa o pracę,Kraków,singiel,sprzedawca,0
+21,6619,1,0,0,1,0,0,wyższe,umowa o pracę,Poznań,singiel,sprzedawca,0
+46,7267,1,12,1,1,0,1,wyższe,kadra zarządzająca,Warszawa,żonaty,nauczyciel,0
+23,6827,1,14,1,1,1,0,podstawowe,umowa zlecenie,Gdańsk,żonaty,programista,1
+35,5629,1,12,1,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,sprzedawca,1
+50,5740,1,9,1,0,0,0,średnie,działalność,Warszawa,żonaty,lekarz,1
+40,6087,0,11,1,1,1,0,średnie,umowa o pracę,Poznań,rozwiedziony,księgowy,1
+29,5705,0,10,1,0,1,1,wyższe,umowa zlecenie,Warszawa,żonaty,lekarz,0
+32,7927,1,1,0,1,1,0,średnie,umowa o pracę,Wrocław,żonaty,kierowca,1
+46,10421,0,10,1,1,0,0,wyższe,umowa zlecenie,Warszawa,wdowiec,kierowca,1
+32,4885,3,8,1,1,1,0,średnie,umowa o pracę,Poznań,rozwiedziony,programista,1
+42,3260,0,6,1,1,1,0,wyższe,umowa o pracę,Warszawa,żonaty,sprzedawca,1
+40,5823,1,22,1,1,1,0,średnie,działalność,Kraków,żonaty,lekarz,1
+33,11159,0,16,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,lekarz,1
+61,4392,2,4,1,1,0,0,średnie,umowa zlecenie,Warszawa,żonaty,księgowy,0
+46,9278,0,11,1,1,1,0,średnie,umowa zlecenie,Poznań,wdowiec,programista,1
+19,9355,0,17,0,1,1,0,średnie,działalność,Wrocław,żonaty,sprzedawca,1
+41,4892,1,2,1,1,0,0,średnie,umowa zlecenie,Wrocław,rozwiedziony,programista,0
+33,7137,2,10,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,nauczyciel,1
+48,9256,1,10,1,1,0,0,średnie,umowa zlecenie,Poznań,wdowiec,lekarz,1
+32,5241,3,3,1,0,1,1,wyższe,działalność,Poznań,żonaty,programista,0
+38,5592,0,11,0,1,0,0,podstawowe,umowa o pracę,Kraków,singiel,programista,0
+45,4836,3,15,1,1,1,0,wyższe,umowa o pracę,Gdańsk,żonaty,księgowy,0
+48,3970,2,17,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,nauczyciel,1
+27,4701,1,8,0,1,1,0,podstawowe,działalność,Poznań,singiel,kierowca,0
+36,3552,1,22,1,1,1,0,średnie,umowa o pracę,Poznań,rozwiedziony,lekarz,1
+35,6068,2,0,0,1,1,0,średnie,umowa o pracę,Poznań,singiel,księgowy,1
+33,4460,1,11,1,1,0,0,podstawowe,działalność,Wrocław,żonaty,programista,0
+57,6467,2,2,0,1,1,0,średnie,kadra zarządzająca,Poznań,singiel,lekarz,1
+44,2888,0,10,1,1,1,0,wyższe,umowa zlecenie,Warszawa,singiel,kierowca,1
+27,6661,1,7,1,1,1,0,podstawowe,kadra zarządzająca,Poznań,wdowiec,programista,1
+49,7667,2,12,1,0,0,0,średnie,bezrobotny,Warszawa,singiel,nauczyciel,1
+61,2012,0,9,1,0,1,0,średnie,umowa o pracę,Kraków,żonaty,lekarz,0
+50,6748,2,5,1,1,1,0,wyższe,działalność,Gdańsk,żonaty,księgowy,1
+24,8455,2,6,0,1,1,0,podstawowe,umowa zlecenie,Wrocław,żonaty,nauczyciel,1
+35,3580,0,19,0,1,0,0,średnie,umowa zlecenie,Warszawa,rozwiedziony,kierowca,0
+52,9345,1,12,1,1,0,0,średnie,umowa zlecenie,Kraków,żonaty,kierowca,1
+32,6838,0,1,0,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,lekarz,1
+44,4589,2,12,1,0,0,0,wyższe,umowa o pracę,Gdańsk,rozwiedziony,kierowca,0
+47,5888,0,9,1,1,1,1,wyższe,umowa o pracę,Gdańsk,singiel,sprzedawca,0
+30,7116,0,10,1,0,0,0,podstawowe,działalność,Warszawa,żonaty,księgowy,0
+39,6152,0,14,1,1,1,0,średnie,umowa o pracę,Kraków,wdowiec,lekarz,1
+18,7077,0,15,0,1,0,0,średnie,umowa zlecenie,Poznań,żonaty,sprzedawca,1
+29,4158,0,5,1,1,1,0,średnie,kadra zarządzająca,Kraków,rozwiedziony,kierowca,0
+37,6338,2,9,1,1,1,0,średnie,umowa zlecenie,Kraków,żonaty,lekarz,1
+27,3172,1,7,1,1,0,0,średnie,umowa zlecenie,Kraków,rozwiedziony,sprzedawca,1
+56,5777,5,12,1,1,0,0,średnie,bezrobotny,Warszawa,rozwiedziony,kierowca,1
+25,4192,0,8,0,1,0,0,wyższe,umowa o pracę,Warszawa,singiel,programista,0
+35,4528,3,10,1,0,1,0,podstawowe,umowa zlecenie,Warszawa,singiel,programista,1
+41,8472,0,8,1,1,1,0,wyższe,umowa zlecenie,Kraków,żonaty,nauczyciel,1
+54,8182,2,9,1,1,1,0,średnie,umowa zlecenie,Warszawa,żonaty,programista,1
+25,7218,1,18,0,1,1,0,średnie,umowa zlecenie,Gdańsk,singiel,sprzedawca,1
+51,3815,2,21,1,0,1,0,wyższe,umowa o pracę,Warszawa,singiel,księgowy,0
+40,5367,2,11,1,1,0,0,średnie,działalność,Wrocław,singiel,programista,1
+30,8426,0,9,0,1,0,0,średnie,działalność,Warszawa,wdowiec,lekarz,0
+44,6283,2,2,1,1,0,0,średnie,umowa zlecenie,Warszawa,żonaty,lekarz,1
+41,10638,2,6,1,0,1,1,średnie,umowa zlecenie,Warszawa,żonaty,lekarz,0
+33,6786,1,9,1,1,1,0,wyższe,kadra zarządzająca,Warszawa,singiel,programista,1
+40,6384,1,6,1,1,0,0,wyższe,bezrobotny,Wrocław,singiel,programista,1
+36,5381,0,6,0,1,1,1,podstawowe,działalność,Poznań,singiel,nauczyciel,0
+41,6267,1,17,1,1,1,0,podstawowe,umowa zlecenie,Warszawa,singiel,księgowy,1
+46,5695,2,10,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,rozwiedziony,księgowy,1
+55,7416,2,10,1,1,0,1,podstawowe,umowa zlecenie,Wrocław,wdowiec,kierowca,0
+27,7913,0,6,1,1,0,0,średnie,umowa o pracę,Poznań,singiel,nauczyciel,1
+61,4428,0,15,1,1,1,0,podstawowe,umowa o pracę,Warszawa,singiel,sprzedawca,1
+20,3337,0,8,0,1,1,0,średnie,umowa o pracę,Poznań,singiel,lekarz,0
+38,2327,0,7,1,0,1,0,podstawowe,umowa zlecenie,Gdańsk,żonaty,programista,1
+45,7015,0,2,1,1,0,0,średnie,umowa o pracę,Wrocław,singiel,kierowca,1
+42,3793,4,9,1,1,0,0,średnie,umowa o pracę,Wrocław,singiel,kierowca,0
+33,1694,0,7,1,1,1,1,średnie,bezrobotny,Poznań,singiel,programista,0
+37,6777,1,18,1,1,1,1,wyższe,bezrobotny,Warszawa,żonaty,nauczyciel,0
+35,10985,1,19,1,1,1,1,wyższe,umowa o pracę,Kraków,żonaty,kierowca,0
+34,5987,1,3,0,1,1,1,średnie,umowa zlecenie,Wrocław,żonaty,księgowy,0
+48,7676,2,4,1,1,0,1,podstawowe,umowa o pracę,Kraków,singiel,nauczyciel,0
+43,6163,2,8,1,1,1,0,wyższe,umowa zlecenie,Wrocław,rozwiedziony,programista,1
+33,5802,1,5,1,1,1,0,wyższe,umowa o pracę,Warszawa,wdowiec,nauczyciel,1
+48,7838,2,11,1,1,0,0,wyższe,umowa zlecenie,Warszawa,singiel,księgowy,1
+43,5419,1,8,1,1,1,1,podstawowe,umowa o pracę,Wrocław,singiel,lekarz,0
+48,6534,1,11,1,1,0,0,wyższe,umowa zlecenie,Poznań,żonaty,programista,1
+46,6643,5,15,1,0,0,0,średnie,bezrobotny,Warszawa,singiel,księgowy,1
+31,4663,1,4,1,1,0,0,wyższe,bezrobotny,Warszawa,żonaty,programista,1
+34,7984,1,14,1,1,0,0,wyższe,kadra zarządzająca,Gdańsk,żonaty,księgowy,1
+47,5650,1,6,1,1,0,0,średnie,umowa zlecenie,Warszawa,żonaty,księgowy,1
+46,4488,0,20,1,1,1,0,wyższe,umowa o pracę,Gdańsk,singiel,kierowca,1
+39,7073,0,18,1,0,1,0,średnie,bezrobotny,Warszawa,żonaty,kierowca,1
+41,4203,0,9,1,1,1,0,wyższe,umowa zlecenie,Warszawa,wdowiec,kierowca,1
+52,6056,2,5,1,1,0,0,średnie,umowa o pracę,Poznań,singiel,lekarz,1
+34,5981,0,4,1,1,0,0,wyższe,umowa o pracę,Poznań,żonaty,lekarz,1
+45,8171,0,14,0,1,1,0,podstawowe,kadra zarządzająca,Warszawa,singiel,księgowy,1
+37,6949,0,9,0,0,0,0,wyższe,kadra zarządzająca,Wrocław,singiel,sprzedawca,0
+37,5949,0,14,1,1,0,0,średnie,działalność,Wrocław,żonaty,programista,1
+50,7635,1,21,1,0,1,1,średnie,umowa o pracę,Warszawa,singiel,kierowca,0
+48,8780,1,6,1,1,1,0,średnie,umowa o pracę,Wrocław,singiel,programista,1
+48,7115,0,3,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,księgowy,1
+53,6020,2,10,0,1,1,0,podstawowe,kadra zarządzająca,Poznań,żonaty,nauczyciel,1
+40,3376,0,15,1,1,0,0,średnie,umowa o pracę,Kraków,żonaty,księgowy,0
+46,3869,1,5,1,1,1,1,średnie,umowa o pracę,Gdańsk,singiel,lekarz,0
+36,5389,0,10,1,1,0,0,wyższe,umowa zlecenie,Wrocław,żonaty,sprzedawca,1
+43,4780,3,16,1,1,1,0,podstawowe,bezrobotny,Wrocław,singiel,nauczyciel,0
+38,5626,1,1,0,0,0,0,podstawowe,kadra zarządzająca,Poznań,żonaty,programista,0
+40,6113,2,11,0,1,1,1,średnie,umowa zlecenie,Wrocław,żonaty,lekarz,0
+45,7059,1,7,1,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,kierowca,1
+31,5859,2,10,1,1,1,0,średnie,umowa zlecenie,Warszawa,wdowiec,nauczyciel,1
+60,6973,0,13,1,1,1,0,średnie,działalność,Kraków,rozwiedziony,lekarz,1
+29,6128,1,11,0,1,1,1,wyższe,bezrobotny,Kraków,singiel,programista,0
+27,2049,1,4,0,1,1,0,wyższe,działalność,Kraków,rozwiedziony,księgowy,0
+51,4121,1,7,1,1,1,0,średnie,umowa zlecenie,Warszawa,singiel,programista,1
+47,5711,2,17,1,1,1,0,podstawowe,działalność,Kraków,wdowiec,nauczyciel,1
+46,3580,1,11,1,1,1,0,średnie,umowa o pracę,Kraków,singiel,nauczyciel,0
+46,7199,0,14,0,1,1,0,podstawowe,umowa zlecenie,Warszawa,singiel,księgowy,1
+39,9061,1,11,1,1,1,0,wyższe,umowa o pracę,Poznań,singiel,nauczyciel,1
+31,8437,1,14,0,0,1,0,średnie,umowa zlecenie,Wrocław,singiel,sprzedawca,0
+40,5573,2,8,0,1,1,1,średnie,umowa zlecenie,Gdańsk,żonaty,kierowca,0
+33,8981,0,6,1,1,1,0,średnie,działalność,Warszawa,rozwiedziony,lekarz,1
+49,6297,3,13,0,1,1,0,wyższe,umowa o pracę,Warszawa,żonaty,księgowy,1
+38,5325,2,15,0,1,1,0,podstawowe,umowa o pracę,Gdańsk,żonaty,programista,1
+31,4773,2,5,1,1,1,0,średnie,umowa zlecenie,Gdańsk,żonaty,programista,1
+36,5395,3,7,1,1,0,1,podstawowe,umowa o pracę,Kraków,singiel,kierowca,0
+44,5223,2,9,1,1,1,0,wyższe,działalność,Gdańsk,singiel,nauczyciel,1
+34,6340,0,18,1,1,1,0,wyższe,umowa o pracę,Wrocław,singiel,nauczyciel,1
+31,6321,0,12,0,1,1,1,średnie,kadra zarządzająca,Wrocław,singiel,programista,0
+42,6006,2,3,0,1,1,0,średnie,kadra zarządzająca,Wrocław,singiel,kierowca,1
+42,6873,1,9,1,1,0,1,wyższe,umowa zlecenie,Wrocław,singiel,programista,0
+34,8381,1,8,1,1,1,0,średnie,umowa zlecenie,Wrocław,singiel,nauczyciel,1
+35,7899,2,4,1,1,1,1,średnie,działalność,Kraków,singiel,księgowy,1
+42,3030,2,9,0,1,1,0,średnie,umowa o pracę,Warszawa,rozwiedziony,lekarz,0
+25,1500,0,8,1,0,0,0,średnie,bezrobotny,Gdańsk,singiel,nauczyciel,0
+25,7868,1,8,0,1,1,1,podstawowe,umowa zlecenie,Warszawa,żonaty,księgowy,0
+32,3266,0,7,1,1,1,0,wyższe,umowa o pracę,Gdańsk,żonaty,lekarz,1
+37,5550,1,17,1,1,0,0,średnie,działalność,Kraków,żonaty,sprzedawca,1
+43,3659,3,8,1,1,0,0,podstawowe,umowa zlecenie,Kraków,singiel,kierowca,0
+54,2396,0,10,1,1,0,1,wyższe,umowa zlecenie,Poznań,singiel,księgowy,0
+48,7082,2,9,1,1,1,0,średnie,kadra zarządzająca,Poznań,singiel,sprzedawca,1
+38,7518,3,7,1,1,0,1,podstawowe,działalność,Kraków,singiel,nauczyciel,0
+39,4846,3,10,1,1,0,0,średnie,umowa o pracę,Kraków,singiel,kierowca,0
+29,1500,2,10,0,1,1,0,wyższe,działalność,Gdańsk,żonaty,księgowy,0
+39,4907,3,10,1,1,0,1,wyższe,umowa o pracę,Kraków,żonaty,nauczyciel,0
+37,6783,0,5,0,1,0,0,wyższe,działalność,Warszawa,żonaty,kierowca,1
+43,3042,4,8,1,1,1,0,wyższe,umowa o pracę,Gdańsk,żonaty,kierowca,1
+31,6366,3,13,1,1,1,0,podstawowe,umowa zlecenie,Kraków,singiel,nauczyciel,1
+45,5969,0,9,1,1,1,0,średnie,umowa o pracę,Gdańsk,rozwiedziony,nauczyciel,1
+55,7158,2,10,1,1,1,0,wyższe,umowa o pracę,Gdańsk,singiel,księgowy,1
+38,6239,0,10,0,1,1,1,średnie,kadra zarządzająca,Wrocław,żonaty,kierowca,0
+44,4053,1,12,1,1,1,0,średnie,umowa zlecenie,Poznań,żonaty,księgowy,1
+46,8393,0,12,1,1,0,0,średnie,kadra zarządzająca,Gdańsk,żonaty,kierowca,1
+35,5682,2,9,1,1,0,0,średnie,kadra zarządzająca,Gdańsk,singiel,księgowy,1
+42,5945,0,5,1,1,1,0,wyższe,umowa zlecenie,Wrocław,żonaty,nauczyciel,1
+40,4133,0,3,1,0,0,0,średnie,działalność,Kraków,singiel,nauczyciel,0
+40,5113,1,15,1,1,1,1,średnie,umowa o pracę,Gdańsk,singiel,programista,0
+32,4230,3,13,0,1,1,0,wyższe,kadra zarządzająca,Wrocław,singiel,księgowy,0
+40,5654,1,13,0,0,0,0,średnie,umowa o pracę,Warszawa,singiel,programista,0
+44,9423,2,14,1,1,0,0,podstawowe,umowa o pracę,Wrocław,żonaty,programista,1
+54,3256,0,9,1,1,0,0,średnie,umowa o pracę,Poznań,rozwiedziony,sprzedawca,0
+49,2772,0,6,1,1,1,1,wyższe,umowa zlecenie,Poznań,singiel,kierowca,0
+61,8942,1,5,1,0,1,0,wyższe,umowa zlecenie,Kraków,rozwiedziony,lekarz,1
+32,5581,1,4,1,1,1,0,wyższe,umowa o pracę,Kraków,wdowiec,sprzedawca,1
+48,4661,4,16,1,1,0,0,wyższe,działalność,Poznań,wdowiec,kierowca,0
+41,8079,0,7,0,1,1,0,średnie,umowa o pracę,Poznań,rozwiedziony,lekarz,1
+61,4788,1,15,0,1,1,0,wyższe,umowa o pracę,Gdańsk,singiel,programista,0
+31,9652,1,9,1,1,0,0,wyższe,umowa zlecenie,Poznań,singiel,lekarz,1
+31,7355,0,6,1,1,1,1,podstawowe,umowa o pracę,Kraków,żonaty,nauczyciel,0
+34,5024,0,4,1,0,1,1,podstawowe,bezrobotny,Poznań,żonaty,nauczyciel,0
+18,10314,1,7,1,1,0,0,wyższe,działalność,Kraków,rozwiedziony,księgowy,1
+34,4788,1,17,0,1,1,0,wyższe,kadra zarządzająca,Warszawa,wdowiec,kierowca,0
+32,7484,1,4,1,1,0,0,wyższe,umowa o pracę,Poznań,żonaty,sprzedawca,1
+41,6598,2,20,0,1,1,1,wyższe,bezrobotny,Kraków,singiel,programista,0
+43,8603,4,5,1,0,0,1,średnie,umowa zlecenie,Wrocław,singiel,kierowca,0
+58,9123,1,13,1,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,programista,1
+49,6064,0,9,1,1,1,0,średnie,umowa o pracę,Kraków,żonaty,nauczyciel,1
+34,4493,2,8,1,1,1,0,podstawowe,działalność,Poznań,żonaty,sprzedawca,0
+31,6919,3,3,0,0,1,0,wyższe,umowa zlecenie,Poznań,rozwiedziony,sprzedawca,0
+44,4644,0,9,1,1,1,0,średnie,działalność,Warszawa,żonaty,nauczyciel,1
+26,10026,1,4,1,1,1,0,średnie,umowa o pracę,Wrocław,rozwiedziony,lekarz,1
+58,6273,0,1,1,1,1,0,średnie,umowa zlecenie,Kraków,żonaty,sprzedawca,1
+51,5269,1,10,1,1,1,0,średnie,umowa o pracę,Wrocław,rozwiedziony,lekarz,1
+35,6369,1,6,1,0,1,0,podstawowe,umowa zlecenie,Warszawa,singiel,programista,1
+22,3305,1,18,1,1,1,0,średnie,umowa o pracę,Gdańsk,rozwiedziony,sprzedawca,1
+53,4056,0,15,0,1,1,0,podstawowe,działalność,Wrocław,żonaty,księgowy,0
+38,8400,3,18,1,1,1,0,podstawowe,umowa o pracę,Warszawa,singiel,nauczyciel,1
+52,4686,2,6,0,1,1,0,wyższe,działalność,Kraków,singiel,lekarz,0
+24,3906,3,10,1,1,0,0,podstawowe,umowa o pracę,Gdańsk,rozwiedziony,księgowy,1
+34,7073,3,0,1,1,0,0,średnie,umowa zlecenie,Poznań,singiel,programista,1
+40,8371,1,8,1,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,programista,1
+40,7437,3,10,1,1,1,0,średnie,umowa o pracę,Poznań,singiel,sprzedawca,1
+35,7992,1,10,1,1,0,0,podstawowe,umowa o pracę,Gdańsk,żonaty,sprzedawca,1
+46,4486,5,9,0,1,1,0,wyższe,umowa zlecenie,Warszawa,rozwiedziony,księgowy,0
+29,3156,0,10,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,kierowca,1
+38,9002,2,0,1,1,0,0,średnie,bezrobotny,Gdańsk,żonaty,kierowca,1
+41,5354,2,11,1,1,1,0,średnie,bezrobotny,Kraków,wdowiec,sprzedawca,1
+45,5498,2,12,0,1,0,0,wyższe,umowa o pracę,Warszawa,żonaty,kierowca,1
+47,8656,1,16,1,1,0,0,wyższe,umowa zlecenie,Gdańsk,rozwiedziony,nauczyciel,1
+28,7112,0,11,1,1,1,0,średnie,kadra zarządzająca,Wrocław,żonaty,księgowy,1
+24,6911,2,9,1,1,1,0,podstawowe,umowa o pracę,Poznań,singiel,nauczyciel,1
+52,10330,2,15,1,0,1,0,średnie,działalność,Warszawa,żonaty,kierowca,1
+43,4712,1,0,1,1,0,0,średnie,umowa o pracę,Wrocław,żonaty,sprzedawca,0
+32,7855,0,7,1,1,1,1,podstawowe,umowa o pracę,Warszawa,singiel,nauczyciel,1
+55,6114,3,6,1,1,0,0,średnie,umowa zlecenie,Kraków,singiel,programista,1
+41,6537,3,9,0,1,0,0,średnie,kadra zarządzająca,Gdańsk,singiel,sprzedawca,0
+51,9056,1,0,0,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,księgowy,1
+40,7015,1,16,1,1,0,1,wyższe,działalność,Gdańsk,rozwiedziony,lekarz,0
+60,7076,3,8,0,1,0,0,wyższe,umowa o pracę,Warszawa,singiel,lekarz,1
+57,8145,0,11,1,1,0,0,średnie,umowa zlecenie,Kraków,żonaty,sprzedawca,1
+37,5270,0,11,1,1,1,1,wyższe,umowa o pracę,Kraków,rozwiedziony,kierowca,0
+49,4321,1,16,0,1,0,0,podstawowe,bezrobotny,Wrocław,singiel,nauczyciel,0
+46,3910,4,0,1,1,0,1,wyższe,umowa o pracę,Kraków,żonaty,nauczyciel,0
+53,2067,2,10,1,1,0,1,podstawowe,umowa zlecenie,Gdańsk,wdowiec,sprzedawca,0
+30,10112,1,15,1,1,1,0,podstawowe,umowa o pracę,Kraków,wdowiec,programista,1
+46,3793,2,9,1,1,0,0,średnie,kadra zarządzająca,Warszawa,singiel,księgowy,0
+50,5557,3,5,1,1,1,0,średnie,umowa o pracę,Kraków,singiel,kierowca,1
+22,5446,1,6,1,0,1,0,wyższe,działalność,Gdańsk,singiel,programista,1
+28,6614,1,8,1,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,sprzedawca,1
+19,7631,4,6,1,1,1,0,średnie,umowa o pracę,Wrocław,żonaty,sprzedawca,1
+37,7720,1,9,0,1,0,0,średnie,kadra zarządzająca,Wrocław,żonaty,programista,0
+47,4833,0,17,0,1,1,0,średnie,działalność,Wrocław,singiel,lekarz,1
+55,5665,0,7,1,1,1,0,średnie,działalność,Warszawa,singiel,sprzedawca,1
+40,6565,1,7,0,1,0,0,średnie,umowa zlecenie,Wrocław,żonaty,księgowy,0
+56,5502,0,12,0,0,0,0,wyższe,umowa o pracę,Kraków,żonaty,kierowca,0
+26,9214,0,9,1,1,1,0,wyższe,umowa zlecenie,Warszawa,żonaty,programista,1
+22,6981,0,3,0,1,1,0,wyższe,umowa o pracę,Warszawa,żonaty,lekarz,1
+39,7469,4,9,1,1,0,0,średnie,umowa o pracę,Warszawa,singiel,programista,1
+43,7325,1,9,1,1,1,0,wyższe,działalność,Poznań,singiel,lekarz,1
+39,8346,0,14,1,1,1,1,średnie,działalność,Gdańsk,singiel,lekarz,0
+19,6362,0,5,1,1,1,0,średnie,umowa o pracę,Poznań,singiel,księgowy,1
+39,3406,0,14,0,1,0,0,średnie,bezrobotny,Poznań,singiel,kierowca,0
+26,6799,0,9,1,1,1,0,wyższe,działalność,Poznań,singiel,sprzedawca,1
+46,4697,1,4,1,1,1,0,wyższe,umowa zlecenie,Gdańsk,singiel,lekarz,1
+43,4942,0,3,1,1,0,0,wyższe,umowa o pracę,Poznań,singiel,sprzedawca,0
+30,7172,0,19,1,1,1,0,wyższe,bezrobotny,Wrocław,żonaty,kierowca,1
+34,8476,1,9,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,sprzedawca,1
+29,6042,1,14,1,1,1,1,wyższe,kadra zarządzająca,Warszawa,żonaty,księgowy,0
+39,6617,0,1,0,1,0,0,średnie,umowa zlecenie,Kraków,żonaty,księgowy,1
+49,9404,0,23,1,1,1,0,średnie,umowa o pracę,Wrocław,żonaty,nauczyciel,1
+30,6481,1,14,1,1,0,1,średnie,umowa zlecenie,Gdańsk,wdowiec,księgowy,0
+45,11203,2,8,0,1,1,0,podstawowe,kadra zarządzająca,Warszawa,singiel,lekarz,1
+34,7131,1,8,1,1,0,0,średnie,działalność,Poznań,żonaty,kierowca,1
+32,2478,0,13,0,1,1,0,średnie,umowa zlecenie,Kraków,wdowiec,księgowy,0
+38,7506,1,13,1,1,1,0,średnie,bezrobotny,Kraków,rozwiedziony,programista,1
+29,6762,1,10,1,1,0,0,wyższe,umowa o pracę,Warszawa,singiel,kierowca,1
+34,8579,1,10,0,1,1,0,wyższe,umowa zlecenie,Wrocław,singiel,lekarz,1
+28,7346,1,12,1,1,1,1,podstawowe,umowa o pracę,Kraków,singiel,kierowca,0
+59,5723,1,1,0,1,0,1,średnie,bezrobotny,Warszawa,żonaty,księgowy,0
+40,3551,2,8,1,1,1,1,średnie,umowa zlecenie,Wrocław,żonaty,programista,0
+33,5581,2,1,0,1,1,1,średnie,umowa o pracę,Warszawa,singiel,nauczyciel,0
+42,4298,4,13,1,1,0,0,wyższe,umowa zlecenie,Warszawa,żonaty,lekarz,0
+38,4838,0,6,1,1,0,0,średnie,działalność,Wrocław,żonaty,lekarz,0
+37,7177,2,2,1,1,0,0,średnie,bezrobotny,Wrocław,żonaty,kierowca,1
+46,9339,2,6,1,0,0,0,wyższe,umowa zlecenie,Wrocław,rozwiedziony,sprzedawca,1
+47,6789,2,10,1,1,1,1,wyższe,kadra zarządzająca,Warszawa,żonaty,sprzedawca,0
+34,3608,2,8,1,1,0,0,podstawowe,umowa o pracę,Kraków,singiel,programista,0
+34,6889,0,4,1,1,1,1,wyższe,umowa o pracę,Gdańsk,żonaty,nauczyciel,0
+37,8393,1,1,1,1,1,1,średnie,umowa zlecenie,Gdańsk,singiel,nauczyciel,0
+18,4780,2,10,1,1,0,1,średnie,umowa o pracę,Warszawa,żonaty,kierowca,0
+24,5731,1,7,0,0,1,1,podstawowe,umowa o pracę,Warszawa,wdowiec,kierowca,0
+53,6029,1,8,1,1,1,0,średnie,umowa zlecenie,Kraków,rozwiedziony,sprzedawca,1
+56,4430,1,9,0,1,1,0,średnie,działalność,Wrocław,żonaty,księgowy,0
+37,7296,1,12,1,1,0,0,średnie,umowa o pracę,Warszawa,singiel,nauczyciel,1
+45,5758,0,14,1,1,0,0,średnie,umowa o pracę,Poznań,singiel,księgowy,1
+43,6839,0,10,1,1,1,0,wyższe,umowa o pracę,Wrocław,żonaty,nauczyciel,1
+70,4225,0,8,0,1,1,1,średnie,umowa o pracę,Warszawa,singiel,księgowy,0
+51,5125,1,10,0,1,1,1,podstawowe,umowa zlecenie,Poznań,żonaty,księgowy,0
+38,7444,3,8,1,1,1,0,wyższe,umowa o pracę,Kraków,singiel,nauczyciel,1
+30,5254,1,1,1,1,0,0,podstawowe,umowa zlecenie,Poznań,singiel,programista,1
+23,9453,1,15,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,programista,1
+42,5200,3,14,1,1,0,0,średnie,działalność,Gdańsk,wdowiec,kierowca,1
+32,6449,1,19,1,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,księgowy,1
+25,7865,0,21,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,singiel,księgowy,1
+33,3163,1,4,0,1,0,0,podstawowe,umowa zlecenie,Kraków,singiel,księgowy,0
+29,2478,0,8,1,1,1,0,średnie,umowa o pracę,Kraków,żonaty,księgowy,1
+56,2948,0,22,0,1,1,0,podstawowe,działalność,Wrocław,singiel,księgowy,1
+48,8525,4,9,1,1,0,0,średnie,umowa o pracę,Wrocław,żonaty,sprzedawca,1
+39,4896,1,11,0,0,1,0,podstawowe,umowa o pracę,Gdańsk,rozwiedziony,lekarz,0
+54,11116,0,2,1,0,1,0,średnie,bezrobotny,Gdańsk,żonaty,księgowy,1
+40,4871,2,10,0,1,1,0,średnie,umowa o pracę,Kraków,żonaty,sprzedawca,1
+31,6369,0,19,0,1,0,1,średnie,umowa zlecenie,Poznań,żonaty,programista,0
+55,9084,0,16,1,1,0,0,podstawowe,kadra zarządzająca,Gdańsk,rozwiedziony,księgowy,1
+45,10012,0,6,0,1,1,0,podstawowe,umowa zlecenie,Gdańsk,rozwiedziony,programista,1
+29,10123,2,8,0,1,0,0,podstawowe,działalność,Poznań,żonaty,kierowca,1
+38,8416,1,4,1,1,0,0,wyższe,umowa o pracę,Wrocław,singiel,lekarz,1
+31,8048,1,5,0,1,1,1,średnie,umowa zlecenie,Wrocław,żonaty,nauczyciel,0
+26,7185,3,0,0,1,0,0,wyższe,umowa o pracę,Gdańsk,singiel,lekarz,1
+49,7556,1,9,1,1,1,0,średnie,działalność,Wrocław,żonaty,księgowy,1
+59,4897,0,17,1,1,0,0,średnie,działalność,Wrocław,żonaty,księgowy,0
+26,4363,0,11,1,1,1,0,średnie,umowa zlecenie,Wrocław,singiel,lekarz,1
+45,5993,1,16,1,1,1,0,wyższe,umowa zlecenie,Kraków,singiel,lekarz,1
+33,5659,2,15,1,1,0,0,średnie,umowa zlecenie,Warszawa,żonaty,kierowca,1
+35,5093,1,7,0,1,0,0,podstawowe,bezrobotny,Gdańsk,rozwiedziony,programista,0
+34,7392,0,6,1,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,nauczyciel,1
+31,7910,1,6,1,0,1,0,średnie,działalność,Kraków,żonaty,lekarz,1
+40,6176,1,1,1,1,1,0,średnie,umowa o pracę,Warszawa,singiel,nauczyciel,1
+31,8955,0,10,1,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,lekarz,1
+42,3716,1,0,0,1,0,0,średnie,umowa o pracę,Kraków,żonaty,programista,0
+39,5612,0,12,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,nauczyciel,1
+37,4566,1,10,1,1,1,0,średnie,umowa zlecenie,Poznań,singiel,sprzedawca,0
+30,2266,1,12,1,1,1,0,wyższe,umowa o pracę,Warszawa,żonaty,programista,1
+34,5834,0,15,0,0,1,0,wyższe,działalność,Poznań,singiel,nauczyciel,0
+47,5756,2,10,0,1,1,0,średnie,umowa o pracę,Poznań,singiel,lekarz,1
+45,9026,1,18,0,1,1,0,średnie,bezrobotny,Poznań,wdowiec,lekarz,1
+30,7261,1,13,1,1,0,1,wyższe,umowa zlecenie,Warszawa,singiel,programista,0
+40,3951,3,6,0,1,1,0,średnie,bezrobotny,Poznań,singiel,programista,1
+47,9708,0,8,0,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,lekarz,1
+23,8442,0,0,1,1,0,0,wyższe,działalność,Warszawa,rozwiedziony,nauczyciel,1
+45,7164,3,5,0,1,1,1,średnie,umowa zlecenie,Kraków,żonaty,sprzedawca,0
+33,5547,1,8,1,1,1,0,podstawowe,działalność,Poznań,żonaty,kierowca,1
+45,4081,3,12,1,1,1,1,wyższe,umowa o pracę,Wrocław,rozwiedziony,programista,0
+32,5255,2,6,1,1,1,1,podstawowe,umowa o pracę,Warszawa,singiel,lekarz,0
+21,8177,4,3,1,0,1,0,wyższe,kadra zarządzająca,Kraków,singiel,nauczyciel,1
+23,9769,0,0,1,1,0,1,wyższe,bezrobotny,Gdańsk,singiel,programista,0
+40,9086,1,7,1,1,1,0,wyższe,kadra zarządzająca,Kraków,rozwiedziony,nauczyciel,1
+42,5022,4,19,0,1,1,1,podstawowe,umowa zlecenie,Poznań,singiel,programista,0
+30,3760,1,11,0,1,1,0,średnie,umowa o pracę,Wrocław,singiel,lekarz,0
+46,6281,1,14,0,1,0,0,średnie,działalność,Poznań,żonaty,nauczyciel,0
+23,2463,1,5,1,1,0,0,średnie,kadra zarządzająca,Kraków,żonaty,lekarz,1
+39,6646,1,2,1,1,1,0,podstawowe,umowa o pracę,Warszawa,żonaty,nauczyciel,1
+27,5704,2,3,1,1,1,0,średnie,umowa o pracę,Wrocław,żonaty,programista,1
+33,5067,0,9,1,1,1,0,średnie,umowa o pracę,Wrocław,singiel,kierowca,1
+40,2810,0,0,0,1,1,0,podstawowe,działalność,Kraków,żonaty,kierowca,0
+31,7027,1,4,1,0,1,0,średnie,umowa zlecenie,Poznań,żonaty,sprzedawca,1
+36,4934,2,7,1,1,1,0,wyższe,działalność,Kraków,rozwiedziony,sprzedawca,1
+50,3660,0,3,0,1,1,0,wyższe,umowa o pracę,Wrocław,singiel,księgowy,0
+34,1500,2,0,1,1,0,0,wyższe,umowa o pracę,Kraków,rozwiedziony,lekarz,0
+48,5944,4,11,0,0,1,0,średnie,umowa o pracę,Wrocław,żonaty,nauczyciel,1
+28,9544,0,10,1,1,1,0,wyższe,umowa o pracę,Poznań,singiel,sprzedawca,1
+45,9322,0,13,1,1,0,0,wyższe,kadra zarządzająca,Warszawa,żonaty,programista,1
+54,5085,0,4,0,1,0,0,średnie,umowa o pracę,Warszawa,singiel,kierowca,1
+18,4795,1,13,1,1,0,1,podstawowe,kadra zarządzająca,Kraków,wdowiec,nauczyciel,0
+32,6937,3,17,1,1,1,0,średnie,umowa zlecenie,Wrocław,rozwiedziony,księgowy,1
+45,4003,1,11,1,1,0,1,średnie,umowa o pracę,Warszawa,singiel,kierowca,0
+37,6603,0,6,1,1,1,0,średnie,działalność,Wrocław,singiel,nauczyciel,1
+43,7532,0,10,0,1,1,0,średnie,umowa o pracę,Poznań,singiel,sprzedawca,1
+33,8453,0,6,1,1,1,0,wyższe,umowa o pracę,Kraków,singiel,sprzedawca,1
+40,5799,1,5,1,1,1,1,średnie,umowa o pracę,Wrocław,singiel,lekarz,0
+38,5592,1,13,1,1,0,0,podstawowe,działalność,Kraków,singiel,księgowy,1
+51,4244,2,9,0,1,1,0,wyższe,działalność,Wrocław,żonaty,nauczyciel,0
+42,4346,1,16,1,1,1,0,średnie,umowa zlecenie,Wrocław,singiel,księgowy,1
+43,5547,1,7,1,1,1,0,wyższe,działalność,Poznań,rozwiedziony,programista,1
+35,6734,0,8,0,1,0,1,podstawowe,umowa o pracę,Kraków,rozwiedziony,księgowy,0
+35,7827,0,7,1,1,1,0,wyższe,umowa zlecenie,Gdańsk,żonaty,sprzedawca,1
+35,4393,2,4,0,1,1,0,podstawowe,działalność,Wrocław,rozwiedziony,lekarz,0
+43,8985,4,14,1,1,1,0,średnie,umowa o pracę,Wrocław,singiel,sprzedawca,1
+35,5457,2,20,0,1,1,0,podstawowe,działalność,Warszawa,singiel,kierowca,1
+42,5957,1,8,1,1,1,0,wyższe,umowa zlecenie,Kraków,żonaty,sprzedawca,1
+60,4505,2,6,1,1,1,0,wyższe,bezrobotny,Gdańsk,żonaty,nauczyciel,1
+48,1500,1,6,1,0,1,1,średnie,umowa o pracę,Poznań,żonaty,lekarz,0
+36,7768,0,6,1,1,1,0,wyższe,umowa zlecenie,Gdańsk,rozwiedziony,nauczyciel,1
+52,7473,1,18,1,0,0,1,średnie,działalność,Poznań,wdowiec,programista,0
+35,5437,0,6,1,1,0,0,średnie,umowa zlecenie,Gdańsk,żonaty,programista,1
+19,6133,2,7,0,1,0,0,wyższe,umowa o pracę,Gdańsk,żonaty,sprzedawca,0
+29,7031,2,3,0,1,0,0,średnie,bezrobotny,Kraków,singiel,lekarz,0
+21,2874,0,11,1,1,0,0,średnie,umowa zlecenie,Warszawa,singiel,księgowy,1
+36,4941,1,9,0,0,1,0,wyższe,działalność,Gdańsk,żonaty,lekarz,0
+40,7588,3,4,1,1,0,0,wyższe,umowa zlecenie,Wrocław,żonaty,lekarz,1
+56,3491,2,5,1,1,1,0,wyższe,umowa o pracę,Wrocław,żonaty,lekarz,1
+43,6587,0,17,0,1,0,0,wyższe,kadra zarządzająca,Wrocław,singiel,sprzedawca,1
+37,3286,0,10,1,1,0,0,podstawowe,umowa o pracę,Warszawa,żonaty,nauczyciel,0
+48,6932,2,10,1,1,0,0,wyższe,działalność,Gdańsk,singiel,sprzedawca,1
+18,5928,1,10,1,1,0,0,średnie,umowa zlecenie,Poznań,żonaty,księgowy,1
+42,2769,1,16,1,1,1,0,wyższe,umowa zlecenie,Poznań,singiel,nauczyciel,1
+47,8329,3,4,1,0,1,0,średnie,działalność,Kraków,singiel,księgowy,1
+25,4530,1,8,0,1,0,0,średnie,umowa o pracę,Warszawa,singiel,kierowca,0
+51,4379,1,9,1,1,1,1,średnie,umowa o pracę,Gdańsk,singiel,kierowca,0
+43,6401,0,1,1,1,1,1,średnie,umowa o pracę,Wrocław,rozwiedziony,nauczyciel,1
+35,8297,1,5,1,1,1,0,podstawowe,umowa o pracę,Warszawa,singiel,sprzedawca,1
+46,3968,1,15,0,1,1,0,wyższe,bezrobotny,Warszawa,singiel,księgowy,1
+62,6123,2,13,0,1,1,0,wyższe,działalność,Gdańsk,żonaty,księgowy,1
+41,6857,1,14,1,0,1,0,podstawowe,umowa o pracę,Kraków,żonaty,programista,1
+42,7386,1,7,1,1,1,0,wyższe,umowa o pracę,Kraków,singiel,księgowy,1
+35,6352,0,7,1,1,0,0,średnie,działalność,Kraków,singiel,sprzedawca,1
+31,5265,3,1,1,1,1,0,średnie,umowa zlecenie,Wrocław,wdowiec,programista,1
+48,4344,1,14,1,1,1,0,średnie,umowa zlecenie,Wrocław,żonaty,sprzedawca,0
+31,6172,0,15,1,1,1,0,wyższe,działalność,Gdańsk,singiel,lekarz,1
+40,3855,3,15,0,1,1,0,wyższe,działalność,Kraków,żonaty,księgowy,0
+35,1500,0,18,0,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,lekarz,1
+44,6873,1,12,0,0,0,0,średnie,umowa zlecenie,Kraków,singiel,kierowca,0
+43,7807,3,17,1,1,1,0,podstawowe,umowa zlecenie,Warszawa,żonaty,kierowca,1
+50,1500,1,8,1,1,1,0,średnie,umowa o pracę,Poznań,rozwiedziony,nauczyciel,1
+34,3980,2,1,1,1,1,0,podstawowe,umowa o pracę,Poznań,singiel,księgowy,1
+37,7238,1,14,1,1,1,0,średnie,działalność,Kraków,rozwiedziony,programista,1
+30,10114,0,0,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,singiel,lekarz,1
+35,6041,0,10,1,1,0,0,wyższe,działalność,Wrocław,singiel,sprzedawca,1
+43,4543,1,14,1,1,1,0,średnie,umowa o pracę,Kraków,singiel,księgowy,1
+47,5634,2,11,0,1,1,0,średnie,działalność,Kraków,singiel,nauczyciel,1
+30,8749,1,21,0,1,1,1,średnie,umowa o pracę,Wrocław,rozwiedziony,sprzedawca,0
+48,4708,0,0,1,1,0,0,wyższe,umowa zlecenie,Kraków,żonaty,lekarz,0
+53,4401,1,9,1,1,1,0,wyższe,bezrobotny,Warszawa,singiel,księgowy,1
+44,5034,1,10,1,1,1,0,wyższe,umowa o pracę,Wrocław,wdowiec,lekarz,1
+58,4093,2,3,1,1,1,0,średnie,kadra zarządzająca,Warszawa,rozwiedziony,księgowy,1
+32,6245,3,4,1,1,1,0,wyższe,umowa zlecenie,Poznań,żonaty,księgowy,1
+27,9249,5,5,0,1,1,1,podstawowe,umowa zlecenie,Wrocław,rozwiedziony,lekarz,0
+22,6646,2,4,0,1,0,0,średnie,kadra zarządzająca,Wrocław,singiel,lekarz,1
+54,5495,2,9,0,1,0,1,średnie,bezrobotny,Gdańsk,rozwiedziony,sprzedawca,0
+46,5416,0,6,1,1,1,1,średnie,działalność,Gdańsk,żonaty,nauczyciel,0
+39,2873,3,11,0,1,1,0,wyższe,umowa zlecenie,Wrocław,rozwiedziony,lekarz,0
+42,7766,2,13,1,1,0,1,wyższe,bezrobotny,Poznań,żonaty,kierowca,0
+28,5844,2,12,1,1,0,0,podstawowe,kadra zarządzająca,Kraków,singiel,nauczyciel,1
+64,5639,1,7,1,1,0,0,podstawowe,umowa zlecenie,Gdańsk,żonaty,kierowca,1
+41,12386,1,11,0,1,1,0,średnie,umowa o pracę,Poznań,singiel,sprzedawca,1
+41,6597,0,15,1,1,0,0,średnie,umowa zlecenie,Poznań,singiel,lekarz,1
+47,4496,0,12,1,1,1,0,średnie,bezrobotny,Gdańsk,singiel,nauczyciel,1
+44,5147,3,19,1,1,1,0,wyższe,bezrobotny,Kraków,rozwiedziony,lekarz,1
+42,8296,1,14,1,1,0,0,wyższe,umowa zlecenie,Gdańsk,singiel,księgowy,1
+32,6226,3,18,0,1,1,0,średnie,bezrobotny,Poznań,żonaty,lekarz,1
+44,3123,0,0,1,1,0,0,wyższe,działalność,Warszawa,singiel,nauczyciel,1
+58,7838,1,10,1,1,1,1,średnie,umowa o pracę,Gdańsk,wdowiec,lekarz,1
+53,4663,2,8,1,1,0,0,średnie,umowa zlecenie,Poznań,singiel,lekarz,0
+55,9746,0,9,1,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,programista,1
+34,8160,1,5,1,1,1,0,średnie,kadra zarządzająca,Poznań,rozwiedziony,programista,1
+30,5105,1,11,0,1,0,0,wyższe,kadra zarządzająca,Kraków,żonaty,nauczyciel,1
+38,8562,1,0,1,1,0,0,średnie,umowa o pracę,Poznań,singiel,nauczyciel,1
+40,6135,1,12,1,1,1,0,średnie,działalność,Wrocław,żonaty,księgowy,1
+50,7705,0,6,1,1,0,0,średnie,umowa zlecenie,Warszawa,rozwiedziony,księgowy,1
+23,6969,2,7,1,0,1,0,wyższe,umowa o pracę,Poznań,żonaty,lekarz,1
+55,4307,0,12,1,1,1,1,średnie,umowa o pracę,Gdańsk,singiel,kierowca,0
+38,4712,1,10,1,1,1,0,wyższe,umowa o pracę,Gdańsk,rozwiedziony,nauczyciel,1
+35,8059,0,15,0,0,1,0,wyższe,umowa o pracę,Poznań,singiel,lekarz,1
+29,5330,2,5,1,0,1,0,średnie,umowa o pracę,Wrocław,żonaty,kierowca,1
+23,5192,0,9,1,1,1,0,średnie,kadra zarządzająca,Poznań,rozwiedziony,programista,1
+48,4089,0,14,1,1,1,0,wyższe,działalność,Kraków,singiel,księgowy,0
+40,6847,2,11,1,1,0,0,średnie,umowa o pracę,Wrocław,żonaty,nauczyciel,1
+27,10125,0,12,1,1,0,0,wyższe,umowa o pracę,Poznań,żonaty,lekarz,1
+27,3864,3,15,0,1,1,0,średnie,umowa zlecenie,Warszawa,rozwiedziony,programista,0
+36,6048,0,7,1,1,1,0,podstawowe,umowa zlecenie,Wrocław,singiel,sprzedawca,1
+56,8824,1,6,1,1,1,0,wyższe,umowa o pracę,Poznań,żonaty,programista,1
+37,5840,0,12,1,1,0,0,wyższe,umowa o pracę,Warszawa,rozwiedziony,lekarz,1
+24,6904,1,9,1,1,1,0,wyższe,bezrobotny,Poznań,singiel,księgowy,1
+37,3875,1,15,1,1,0,0,średnie,działalność,Kraków,singiel,kierowca,0
+37,6856,0,11,0,0,0,0,wyższe,umowa o pracę,Gdańsk,wdowiec,sprzedawca,0
+18,5625,1,6,1,1,1,0,wyższe,umowa o pracę,Poznań,singiel,sprzedawca,1
+39,7971,2,11,1,0,0,0,wyższe,bezrobotny,Wrocław,wdowiec,księgowy,1
+37,8374,1,5,0,1,1,0,średnie,umowa zlecenie,Poznań,singiel,sprzedawca,1
+46,11179,2,14,0,1,0,0,średnie,działalność,Poznań,singiel,nauczyciel,1
+58,7159,0,3,1,1,1,0,wyższe,umowa o pracę,Poznań,żonaty,lekarz,1
+51,6651,2,16,0,1,1,1,średnie,kadra zarządzająca,Poznań,żonaty,sprzedawca,0
+37,6388,0,11,1,1,0,0,średnie,kadra zarządzająca,Wrocław,żonaty,programista,1
+28,5293,0,9,0,1,0,0,średnie,umowa o pracę,Wrocław,żonaty,kierowca,0
+65,6676,2,13,0,1,1,1,średnie,umowa zlecenie,Poznań,rozwiedziony,lekarz,0
+40,5409,1,12,1,0,1,0,średnie,działalność,Gdańsk,singiel,księgowy,1
+40,6336,1,16,1,1,1,0,podstawowe,kadra zarządzająca,Poznań,żonaty,programista,1
+39,8635,0,16,1,1,0,0,wyższe,umowa o pracę,Wrocław,singiel,nauczyciel,1
+41,3986,1,11,1,1,1,0,średnie,działalność,Kraków,żonaty,sprzedawca,1
+38,8279,1,5,1,1,1,0,średnie,działalność,Poznań,singiel,programista,1
+34,8634,1,7,1,1,1,0,podstawowe,umowa o pracę,Poznań,singiel,lekarz,1
+34,5763,1,9,1,1,1,0,podstawowe,umowa o pracę,Poznań,żonaty,programista,1
+39,1756,3,15,1,1,0,0,średnie,działalność,Poznań,singiel,nauczyciel,0
+34,4784,0,7,0,1,0,0,wyższe,umowa o pracę,Warszawa,singiel,kierowca,0
+32,8593,0,8,0,1,1,0,podstawowe,bezrobotny,Poznań,żonaty,sprzedawca,1
+41,5954,1,19,1,1,1,0,wyższe,umowa zlecenie,Wrocław,żonaty,lekarz,1
+37,4001,1,9,1,1,0,0,średnie,umowa zlecenie,Wrocław,rozwiedziony,sprzedawca,0
+55,4990,0,6,0,1,1,0,średnie,umowa zlecenie,Warszawa,żonaty,sprzedawca,0
+18,7681,1,13,0,1,0,0,podstawowe,kadra zarządzająca,Poznań,singiel,księgowy,1
+50,7093,0,9,0,1,0,0,podstawowe,bezrobotny,Gdańsk,żonaty,sprzedawca,0
+52,5522,1,3,1,1,0,0,wyższe,umowa zlecenie,Poznań,singiel,programista,1
+19,5266,2,15,1,1,0,1,wyższe,umowa zlecenie,Wrocław,żonaty,programista,0
+36,5216,0,6,0,1,1,0,średnie,umowa o pracę,Kraków,wdowiec,kierowca,1
+36,4155,1,10,1,0,1,0,podstawowe,umowa o pracę,Kraków,żonaty,nauczyciel,1
+25,9230,4,9,1,0,0,0,średnie,umowa zlecenie,Gdańsk,żonaty,lekarz,0
+32,5355,0,11,1,1,0,0,średnie,umowa zlecenie,Poznań,singiel,programista,1
+28,8434,1,0,0,1,1,0,wyższe,umowa zlecenie,Warszawa,żonaty,sprzedawca,1
+57,9042,1,8,1,1,0,0,średnie,umowa o pracę,Poznań,rozwiedziony,nauczyciel,1
+49,7996,0,15,1,1,1,1,wyższe,umowa zlecenie,Gdańsk,singiel,lekarz,0
+52,5136,1,16,1,0,0,0,średnie,kadra zarządzająca,Gdańsk,singiel,lekarz,0
+47,6807,4,5,0,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,lekarz,1
+28,5951,1,14,1,1,0,0,średnie,bezrobotny,Kraków,żonaty,lekarz,1
+34,4192,1,6,1,1,0,0,podstawowe,umowa o pracę,Poznań,singiel,kierowca,1
+44,6648,1,8,1,1,0,0,wyższe,umowa zlecenie,Poznań,rozwiedziony,lekarz,1
+27,3641,1,8,0,1,0,1,średnie,umowa o pracę,Warszawa,singiel,nauczyciel,0
+47,8375,1,10,1,0,1,1,wyższe,umowa zlecenie,Gdańsk,singiel,programista,0
+37,5070,3,15,0,1,1,0,podstawowe,umowa o pracę,Gdańsk,żonaty,nauczyciel,1
+36,6402,1,11,1,1,0,0,wyższe,działalność,Wrocław,singiel,sprzedawca,1
+47,6566,1,9,1,1,0,1,podstawowe,kadra zarządzająca,Wrocław,żonaty,księgowy,0
+44,5482,2,14,1,1,1,0,wyższe,umowa zlecenie,Kraków,singiel,kierowca,1
+36,7173,0,5,1,1,1,0,wyższe,umowa zlecenie,Poznań,singiel,kierowca,1
+51,5050,1,9,1,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,sprzedawca,1
+29,7742,1,14,1,1,1,0,średnie,kadra zarządzająca,Warszawa,rozwiedziony,nauczyciel,1
+46,3308,0,12,1,1,1,0,wyższe,kadra zarządzająca,Gdańsk,żonaty,nauczyciel,1
+45,6252,3,7,0,1,1,1,średnie,bezrobotny,Warszawa,żonaty,sprzedawca,0
+36,9877,2,2,1,1,1,0,podstawowe,umowa zlecenie,Gdańsk,singiel,księgowy,1
+43,3999,2,11,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,lekarz,1
+27,4644,0,2,1,1,0,0,podstawowe,umowa zlecenie,Warszawa,żonaty,lekarz,0
+49,7027,1,8,1,1,0,1,wyższe,umowa zlecenie,Gdańsk,rozwiedziony,programista,0
+38,6359,1,15,1,0,0,0,podstawowe,umowa zlecenie,Poznań,żonaty,nauczyciel,0
+34,6701,2,12,1,0,1,0,średnie,umowa o pracę,Poznań,żonaty,nauczyciel,1
+50,6978,0,0,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,singiel,sprzedawca,1
+32,7269,0,11,1,1,1,0,średnie,kadra zarządzająca,Gdańsk,żonaty,sprzedawca,1
+25,8219,2,8,1,1,0,0,średnie,umowa o pracę,Kraków,żonaty,lekarz,1
+24,6819,1,3,1,1,1,0,podstawowe,umowa o pracę,Poznań,rozwiedziony,nauczyciel,1
+46,5517,2,11,0,0,1,0,średnie,działalność,Gdańsk,singiel,nauczyciel,0
+27,7345,1,7,0,1,0,1,średnie,umowa zlecenie,Poznań,singiel,kierowca,0
+57,9799,0,7,1,1,1,0,wyższe,umowa o pracę,Warszawa,żonaty,programista,1
+19,5734,0,10,1,1,1,0,wyższe,umowa o pracę,Wrocław,singiel,programista,1
+56,4050,0,6,1,0,1,0,wyższe,umowa zlecenie,Wrocław,singiel,lekarz,0
+42,8214,1,10,1,1,1,0,podstawowe,umowa o pracę,Gdańsk,rozwiedziony,księgowy,1
+39,5759,1,7,0,1,1,0,średnie,bezrobotny,Gdańsk,żonaty,nauczyciel,1
+34,1654,0,7,1,1,1,0,podstawowe,umowa o pracę,Poznań,rozwiedziony,kierowca,1
+43,7694,2,14,0,1,1,0,podstawowe,umowa zlecenie,Gdańsk,rozwiedziony,nauczyciel,1
+39,4929,2,15,0,1,1,0,średnie,umowa zlecenie,Poznań,singiel,sprzedawca,1
+51,5818,1,1,1,1,0,0,średnie,umowa zlecenie,Gdańsk,żonaty,lekarz,1
+41,6663,0,13,0,1,1,0,średnie,działalność,Poznań,singiel,księgowy,1
+41,6380,1,16,1,0,0,0,średnie,umowa o pracę,Gdańsk,rozwiedziony,programista,1
+36,7418,2,17,1,1,0,0,wyższe,umowa o pracę,Kraków,żonaty,nauczyciel,1
+39,5129,1,12,1,1,1,0,średnie,umowa o pracę,Poznań,singiel,księgowy,1
+43,7026,3,4,0,1,1,1,średnie,umowa o pracę,Kraków,singiel,lekarz,0
+22,5480,3,13,1,0,1,1,średnie,umowa zlecenie,Kraków,żonaty,programista,0
+26,7477,0,5,0,1,0,0,średnie,umowa o pracę,Kraków,singiel,nauczyciel,0
+47,7230,0,8,1,1,0,0,podstawowe,umowa zlecenie,Kraków,singiel,kierowca,1
+41,4129,0,11,1,1,0,0,średnie,umowa zlecenie,Warszawa,żonaty,lekarz,0
+38,8171,2,5,1,1,0,0,średnie,umowa o pracę,Wrocław,rozwiedziony,nauczyciel,1
+40,4928,0,4,0,1,1,0,wyższe,umowa zlecenie,Warszawa,singiel,programista,1
+43,7616,1,12,1,0,0,0,wyższe,umowa zlecenie,Gdańsk,żonaty,programista,1
+34,6734,2,19,1,1,1,0,średnie,umowa o pracę,Gdańsk,rozwiedziony,kierowca,1
+32,9676,0,16,0,0,0,0,średnie,umowa o pracę,Wrocław,singiel,lekarz,0
+41,5553,0,13,1,1,1,0,średnie,umowa o pracę,Wrocław,rozwiedziony,lekarz,1
+30,5301,3,14,1,1,0,0,wyższe,umowa o pracę,Wrocław,singiel,księgowy,1
+44,5961,1,13,0,1,0,0,średnie,umowa o pracę,Kraków,żonaty,nauczyciel,0
+22,5393,1,12,0,1,0,0,średnie,umowa o pracę,Warszawa,żonaty,księgowy,1
+50,7599,0,14,1,0,1,0,podstawowe,umowa zlecenie,Gdańsk,żonaty,programista,1
+44,2767,1,3,0,1,1,0,podstawowe,umowa zlecenie,Warszawa,rozwiedziony,programista,0
+42,3892,0,10,0,1,1,0,wyższe,umowa o pracę,Warszawa,singiel,kierowca,0
+49,3864,0,9,1,1,1,1,średnie,umowa zlecenie,Warszawa,singiel,kierowca,0
+56,7900,3,10,1,1,0,0,średnie,kadra zarządzająca,Wrocław,żonaty,lekarz,1
+50,9421,1,7,1,1,1,0,średnie,działalność,Wrocław,rozwiedziony,księgowy,1
+21,5791,1,12,1,1,1,0,średnie,umowa zlecenie,Gdańsk,singiel,programista,1
+27,5662,1,5,1,1,0,0,wyższe,bezrobotny,Gdańsk,rozwiedziony,nauczyciel,1
+33,6140,0,7,0,1,0,0,wyższe,bezrobotny,Gdańsk,singiel,sprzedawca,1
+40,8323,0,6,1,1,0,0,średnie,umowa zlecenie,Warszawa,singiel,nauczyciel,1
+45,4145,1,14,1,1,0,1,podstawowe,umowa zlecenie,Wrocław,żonaty,kierowca,0
+32,6476,0,9,0,1,1,0,średnie,umowa o pracę,Kraków,singiel,nauczyciel,1
+41,7950,2,7,1,1,0,0,średnie,działalność,Warszawa,żonaty,programista,1
+32,7002,4,8,1,1,0,0,średnie,umowa o pracę,Poznań,singiel,księgowy,1
+33,6379,1,10,0,1,0,0,średnie,umowa zlecenie,Warszawa,singiel,lekarz,0
+25,8002,2,18,0,1,1,0,podstawowe,umowa o pracę,Wrocław,żonaty,księgowy,1
+30,1500,0,3,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,sprzedawca,1
+26,7355,1,13,1,1,0,0,podstawowe,działalność,Warszawa,żonaty,lekarz,1
+30,4691,2,12,1,1,0,1,wyższe,działalność,Wrocław,żonaty,sprzedawca,0
+50,2338,3,5,1,1,0,0,średnie,kadra zarządzająca,Wrocław,singiel,sprzedawca,0
+30,7022,1,17,0,1,1,0,wyższe,umowa o pracę,Kraków,żonaty,programista,1
+66,8747,0,12,0,1,0,1,podstawowe,umowa o pracę,Warszawa,wdowiec,programista,0
+44,5725,0,7,0,0,1,0,średnie,umowa zlecenie,Wrocław,rozwiedziony,kierowca,1
+41,7905,1,0,0,1,1,1,wyższe,umowa o pracę,Gdańsk,singiel,kierowca,0
+31,9224,1,11,0,1,1,1,średnie,umowa zlecenie,Wrocław,singiel,sprzedawca,0
+47,8629,0,9,1,1,0,1,wyższe,umowa o pracę,Kraków,rozwiedziony,księgowy,0
+34,9279,1,4,1,1,1,0,średnie,umowa o pracę,Wrocław,żonaty,kierowca,1
+41,7484,1,4,1,1,1,0,średnie,umowa zlecenie,Warszawa,żonaty,programista,1
+65,6150,1,14,0,1,0,0,średnie,bezrobotny,Warszawa,żonaty,kierowca,1
+39,2796,0,0,1,1,0,1,średnie,bezrobotny,Poznań,singiel,sprzedawca,0
+51,5507,0,11,1,1,0,0,średnie,bezrobotny,Warszawa,żonaty,lekarz,1
+32,4313,2,9,0,1,0,0,średnie,bezrobotny,Poznań,wdowiec,księgowy,0
+39,10341,2,12,1,1,0,0,średnie,umowa zlecenie,Gdańsk,żonaty,księgowy,1
+57,5648,2,8,1,1,1,0,średnie,umowa zlecenie,Kraków,singiel,nauczyciel,1
+33,6246,1,11,0,1,1,0,średnie,umowa zlecenie,Gdańsk,singiel,kierowca,1
+58,7102,4,6,1,1,1,0,średnie,kadra zarządzająca,Poznań,singiel,księgowy,1
+47,6087,1,9,0,0,0,0,podstawowe,umowa zlecenie,Wrocław,żonaty,programista,0
+34,9390,0,12,1,1,1,0,średnie,umowa zlecenie,Wrocław,singiel,lekarz,1
+46,4754,2,10,1,1,0,1,wyższe,umowa o pracę,Gdańsk,singiel,programista,0
+49,6389,1,11,1,1,1,0,wyższe,działalność,Wrocław,rozwiedziony,kierowca,1
+46,4515,1,5,0,1,0,0,średnie,umowa o pracę,Poznań,singiel,sprzedawca,0
+24,3359,2,7,1,1,0,0,wyższe,umowa zlecenie,Kraków,singiel,nauczyciel,0
+32,4776,1,7,1,0,1,0,średnie,umowa o pracę,Warszawa,singiel,nauczyciel,0
+37,5925,2,8,1,1,0,0,wyższe,umowa o pracę,Poznań,singiel,lekarz,1
+39,5141,1,16,1,0,1,1,wyższe,umowa o pracę,Poznań,żonaty,księgowy,0
+46,4615,0,8,1,1,1,0,wyższe,umowa o pracę,Warszawa,rozwiedziony,księgowy,0
+41,3187,2,4,1,1,1,0,podstawowe,działalność,Warszawa,rozwiedziony,księgowy,0
+26,5833,0,12,1,1,1,0,średnie,działalność,Kraków,żonaty,nauczyciel,1
+43,2990,1,16,1,1,1,0,podstawowe,umowa o pracę,Kraków,żonaty,sprzedawca,1
+46,7520,0,3,1,0,0,0,wyższe,umowa o pracę,Kraków,żonaty,księgowy,1
+45,6164,2,19,1,1,1,0,średnie,umowa o pracę,Wrocław,singiel,programista,1
+50,3084,1,12,1,1,1,0,wyższe,działalność,Poznań,singiel,księgowy,1
+48,5381,0,15,1,1,0,0,średnie,bezrobotny,Warszawa,rozwiedziony,sprzedawca,1
+44,4495,2,17,1,1,0,0,wyższe,kadra zarządzająca,Poznań,singiel,lekarz,0
+39,6638,1,14,1,1,1,0,podstawowe,umowa zlecenie,Poznań,singiel,lekarz,1
+23,8680,1,9,1,1,1,0,podstawowe,umowa o pracę,Kraków,żonaty,nauczyciel,1
+44,2249,4,16,0,0,1,0,średnie,działalność,Kraków,żonaty,sprzedawca,0
+42,6230,1,11,1,1,0,1,średnie,umowa zlecenie,Poznań,singiel,programista,0
+42,5679,1,15,1,1,1,0,średnie,umowa o pracę,Kraków,singiel,sprzedawca,1
+27,7342,1,15,0,1,0,0,wyższe,umowa zlecenie,Wrocław,singiel,programista,0
+29,6426,1,4,1,1,1,1,podstawowe,umowa o pracę,Warszawa,żonaty,programista,0
+50,4496,1,13,0,0,1,0,średnie,umowa zlecenie,Poznań,singiel,sprzedawca,0
+39,5361,0,9,0,1,0,0,wyższe,umowa o pracę,Warszawa,żonaty,kierowca,0
+46,4407,2,10,0,1,1,0,podstawowe,umowa o pracę,Wrocław,żonaty,sprzedawca,1
+40,8152,1,10,1,1,1,0,wyższe,kadra zarządzająca,Kraków,rozwiedziony,programista,1
+40,6042,2,10,1,1,1,0,wyższe,kadra zarządzająca,Gdańsk,singiel,księgowy,1
+49,9802,2,17,1,1,1,0,podstawowe,umowa zlecenie,Wrocław,singiel,lekarz,1
+34,5878,0,3,1,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,lekarz,1
+40,4583,0,1,1,1,1,0,średnie,bezrobotny,Warszawa,żonaty,nauczyciel,1
+35,2972,0,0,1,1,0,1,wyższe,bezrobotny,Poznań,singiel,lekarz,0
+35,2393,1,15,1,0,0,0,średnie,umowa zlecenie,Kraków,żonaty,kierowca,0
+36,2831,0,6,1,1,0,0,średnie,kadra zarządzająca,Wrocław,singiel,programista,1
+42,6534,4,10,0,0,1,1,wyższe,kadra zarządzająca,Kraków,singiel,sprzedawca,0
+35,7017,1,9,0,1,1,0,podstawowe,umowa zlecenie,Gdańsk,żonaty,sprzedawca,1
+52,2837,2,5,1,1,0,0,wyższe,umowa zlecenie,Gdańsk,singiel,kierowca,0
+31,7790,1,14,1,1,1,1,wyższe,umowa zlecenie,Poznań,rozwiedziony,lekarz,0
+38,5033,2,9,0,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,programista,1
+35,6293,1,8,0,1,1,0,wyższe,umowa o pracę,Poznań,żonaty,lekarz,1
+54,9224,1,11,1,1,0,0,wyższe,umowa zlecenie,Wrocław,żonaty,nauczyciel,1
+41,7793,3,13,1,1,1,0,średnie,działalność,Poznań,żonaty,lekarz,1
+50,5462,2,5,1,1,0,0,średnie,umowa zlecenie,Gdańsk,singiel,nauczyciel,1
+25,4217,1,14,1,1,0,0,średnie,kadra zarządzająca,Warszawa,rozwiedziony,sprzedawca,1
+42,1696,1,17,1,1,1,0,podstawowe,umowa o pracę,Poznań,wdowiec,programista,0
+48,4561,0,2,1,1,0,0,wyższe,umowa o pracę,Kraków,singiel,księgowy,1
+40,5577,1,11,1,1,0,0,podstawowe,działalność,Warszawa,singiel,nauczyciel,1
+50,4025,1,8,0,1,1,0,średnie,działalność,Poznań,singiel,lekarz,0
+34,5737,2,13,1,1,0,0,średnie,umowa zlecenie,Kraków,żonaty,lekarz,1
+54,6153,0,3,0,1,1,0,podstawowe,umowa zlecenie,Warszawa,żonaty,sprzedawca,1
+62,5550,1,18,0,1,0,0,wyższe,kadra zarządzająca,Poznań,rozwiedziony,kierowca,1
+36,4699,3,1,1,1,0,0,wyższe,umowa zlecenie,Wrocław,żonaty,księgowy,1
+35,6337,3,8,1,0,0,0,średnie,bezrobotny,Kraków,żonaty,kierowca,0
+54,6883,2,12,1,1,0,0,średnie,umowa o pracę,Wrocław,żonaty,lekarz,1
+55,3819,3,6,0,1,1,1,podstawowe,działalność,Gdańsk,żonaty,kierowca,0
+34,8821,2,5,1,1,1,0,średnie,działalność,Poznań,żonaty,księgowy,1
+35,5802,0,11,1,1,1,1,średnie,kadra zarządzająca,Poznań,żonaty,księgowy,0
+37,6037,2,10,1,1,1,0,średnie,umowa o pracę,Kraków,żonaty,programista,1
+26,7416,0,10,0,1,0,0,wyższe,umowa zlecenie,Poznań,żonaty,kierowca,1
+30,6466,1,14,1,1,1,1,średnie,umowa o pracę,Gdańsk,żonaty,programista,0
+29,7906,1,8,1,1,1,0,wyższe,działalność,Poznań,żonaty,lekarz,1
+32,6574,0,11,0,1,1,0,średnie,bezrobotny,Warszawa,żonaty,lekarz,1
+39,4775,0,7,1,1,0,1,średnie,umowa zlecenie,Wrocław,żonaty,lekarz,0
+42,6723,1,5,1,1,1,1,wyższe,bezrobotny,Gdańsk,żonaty,sprzedawca,0
+55,3712,1,8,0,1,1,1,średnie,umowa o pracę,Gdańsk,żonaty,kierowca,0
+30,6217,1,7,0,0,0,0,wyższe,działalność,Wrocław,żonaty,nauczyciel,0
+49,5933,1,7,0,1,1,0,średnie,umowa o pracę,Wrocław,singiel,księgowy,1
+37,5583,1,15,1,1,0,0,podstawowe,kadra zarządzająca,Gdańsk,singiel,nauczyciel,1
+39,5742,0,8,0,1,1,0,wyższe,bezrobotny,Wrocław,żonaty,lekarz,1
+46,2236,2,6,1,1,1,1,średnie,kadra zarządzająca,Kraków,żonaty,kierowca,0
+28,4902,2,10,1,1,1,0,wyższe,działalność,Wrocław,wdowiec,programista,1
+43,6185,0,10,1,1,1,0,wyższe,umowa zlecenie,Warszawa,singiel,nauczyciel,1
+41,6319,0,4,0,0,0,0,podstawowe,kadra zarządzająca,Warszawa,singiel,lekarz,0
+44,3944,0,8,0,1,1,0,średnie,umowa zlecenie,Kraków,singiel,nauczyciel,0
+42,8531,2,8,1,1,1,1,średnie,działalność,Wrocław,singiel,nauczyciel,0
+64,4267,2,9,1,1,0,0,średnie,działalność,Warszawa,żonaty,księgowy,1
+33,7938,0,13,1,1,1,0,wyższe,działalność,Poznań,singiel,nauczyciel,1
+34,6854,0,10,0,1,1,1,średnie,umowa o pracę,Wrocław,żonaty,lekarz,0
+33,4707,0,16,1,1,0,0,średnie,umowa zlecenie,Kraków,żonaty,księgowy,0
+34,9550,0,9,1,1,0,0,wyższe,umowa o pracę,Wrocław,żonaty,lekarz,1
+33,3612,1,18,0,1,0,0,podstawowe,umowa o pracę,Gdańsk,rozwiedziony,sprzedawca,0
+51,7838,2,7,1,1,1,0,wyższe,działalność,Gdańsk,żonaty,sprzedawca,1
+54,8001,1,6,1,1,1,0,średnie,działalność,Warszawa,singiel,sprzedawca,1
+34,4658,1,12,0,0,1,1,wyższe,kadra zarządzająca,Gdańsk,rozwiedziony,nauczyciel,0
+31,8784,0,16,1,1,1,0,średnie,bezrobotny,Kraków,rozwiedziony,kierowca,1
+44,5499,0,3,1,0,1,1,podstawowe,działalność,Warszawa,singiel,lekarz,0
+34,6577,2,9,0,1,1,1,średnie,kadra zarządzająca,Kraków,singiel,sprzedawca,0
+46,6520,1,6,1,1,0,0,podstawowe,działalność,Kraków,singiel,kierowca,1
+42,5731,0,10,1,1,1,0,wyższe,umowa zlecenie,Gdańsk,singiel,sprzedawca,1
+24,7621,1,10,1,1,1,0,podstawowe,bezrobotny,Gdańsk,wdowiec,sprzedawca,1
+55,7586,0,16,0,1,1,0,wyższe,bezrobotny,Kraków,żonaty,kierowca,1
+57,2502,3,9,1,1,1,1,średnie,umowa o pracę,Gdańsk,singiel,sprzedawca,0
+33,8608,1,16,1,0,0,0,średnie,umowa o pracę,Gdańsk,rozwiedziony,nauczyciel,0
+36,2675,0,8,1,1,1,0,podstawowe,kadra zarządzająca,Gdańsk,żonaty,nauczyciel,1
+42,8065,0,14,0,0,0,0,średnie,umowa o pracę,Wrocław,singiel,księgowy,0
+43,8253,2,11,1,1,1,0,średnie,umowa zlecenie,Kraków,rozwiedziony,nauczyciel,1
+46,3818,2,18,1,1,0,0,średnie,umowa o pracę,Poznań,rozwiedziony,programista,0
+60,5178,0,2,1,1,1,0,wyższe,działalność,Kraków,rozwiedziony,księgowy,1
+38,3788,1,4,1,1,0,0,średnie,kadra zarządzająca,Warszawa,żonaty,sprzedawca,0
+32,5570,1,19,0,1,0,0,średnie,działalność,Gdańsk,żonaty,programista,1
+26,5383,2,6,0,1,0,0,średnie,umowa o pracę,Gdańsk,singiel,lekarz,0
+32,7559,1,6,1,1,0,0,podstawowe,umowa o pracę,Poznań,żonaty,kierowca,1
+39,8620,1,5,0,0,0,0,wyższe,działalność,Warszawa,wdowiec,lekarz,0
+57,8791,1,15,1,0,1,0,średnie,umowa o pracę,Wrocław,singiel,programista,1
+34,4875,2,3,0,1,1,0,podstawowe,umowa zlecenie,Kraków,żonaty,nauczyciel,1
+42,5581,3,10,1,1,0,0,średnie,umowa zlecenie,Wrocław,żonaty,sprzedawca,1
+39,2633,1,8,1,1,0,1,średnie,bezrobotny,Warszawa,singiel,księgowy,0
+51,4388,1,15,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,sprzedawca,1
+65,7929,1,7,1,1,1,0,średnie,umowa zlecenie,Warszawa,singiel,nauczyciel,1
+34,9231,1,12,0,1,1,1,podstawowe,umowa zlecenie,Poznań,żonaty,sprzedawca,0
+35,3531,1,4,1,1,1,1,średnie,umowa zlecenie,Wrocław,singiel,kierowca,0
+50,4815,0,21,0,1,0,0,wyższe,umowa o pracę,Wrocław,rozwiedziony,kierowca,0
+46,5947,0,8,1,1,0,0,podstawowe,umowa o pracę,Warszawa,singiel,kierowca,1
+58,6560,4,10,1,1,0,0,wyższe,umowa o pracę,Warszawa,singiel,lekarz,1
+45,4380,1,18,1,1,1,0,podstawowe,bezrobotny,Gdańsk,singiel,nauczyciel,0
+36,6848,1,7,1,1,1,1,wyższe,umowa zlecenie,Poznań,rozwiedziony,kierowca,0
+45,5052,1,18,1,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,programista,1
+51,5971,1,7,1,1,0,0,średnie,umowa zlecenie,Kraków,żonaty,kierowca,1
+48,7092,1,13,1,1,0,0,podstawowe,umowa zlecenie,Kraków,żonaty,księgowy,1
+45,6012,1,7,1,1,0,0,podstawowe,bezrobotny,Warszawa,żonaty,lekarz,1
+50,5127,1,3,0,1,1,0,średnie,działalność,Wrocław,singiel,programista,1
+51,5780,1,12,1,1,0,1,podstawowe,umowa o pracę,Kraków,żonaty,nauczyciel,0
+53,5823,1,13,1,1,1,0,średnie,umowa zlecenie,Kraków,singiel,nauczyciel,1
+46,5259,3,3,0,1,0,0,średnie,bezrobotny,Gdańsk,wdowiec,księgowy,0
+38,5482,1,8,0,1,1,0,średnie,kadra zarządzająca,Gdańsk,żonaty,kierowca,1
+41,9197,0,16,0,1,1,0,wyższe,umowa o pracę,Kraków,żonaty,programista,1
+52,7121,0,13,1,1,1,0,średnie,umowa o pracę,Warszawa,singiel,księgowy,1
+31,5409,1,8,0,0,1,1,średnie,umowa o pracę,Gdańsk,żonaty,programista,0
+43,7393,1,7,0,1,1,0,średnie,działalność,Kraków,singiel,kierowca,1
+36,5332,0,19,0,1,1,1,średnie,działalność,Wrocław,singiel,kierowca,0
+40,8346,1,2,1,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,sprzedawca,1
+52,6739,1,9,1,1,1,0,wyższe,umowa o pracę,Kraków,żonaty,sprzedawca,1
+41,5785,2,2,1,1,1,0,średnie,bezrobotny,Poznań,żonaty,kierowca,1
+40,6895,1,16,1,1,1,0,podstawowe,kadra zarządzająca,Gdańsk,singiel,lekarz,1
+26,2858,2,9,1,1,1,1,średnie,umowa o pracę,Poznań,singiel,księgowy,0
+47,3746,2,10,0,1,1,0,średnie,umowa zlecenie,Gdańsk,żonaty,sprzedawca,0
+46,3612,0,23,0,0,0,0,wyższe,kadra zarządzająca,Gdańsk,żonaty,kierowca,0
+61,6285,3,7,0,0,0,0,wyższe,kadra zarządzająca,Poznań,singiel,programista,0
+36,9465,2,18,0,1,1,1,podstawowe,kadra zarządzająca,Warszawa,singiel,księgowy,0
+42,10462,2,8,1,1,1,0,podstawowe,działalność,Kraków,rozwiedziony,sprzedawca,1
+42,7276,0,8,1,1,1,0,średnie,kadra zarządzająca,Warszawa,wdowiec,lekarz,1
+55,7001,0,23,1,1,1,0,średnie,umowa zlecenie,Warszawa,wdowiec,księgowy,1
+39,2397,0,9,1,1,1,0,średnie,działalność,Kraków,rozwiedziony,księgowy,1
+42,4914,1,3,1,1,1,0,wyższe,działalność,Wrocław,singiel,nauczyciel,0
+46,4424,1,11,0,1,0,1,średnie,umowa zlecenie,Warszawa,singiel,programista,0
+41,4758,1,9,0,1,1,0,średnie,bezrobotny,Warszawa,singiel,lekarz,0
+35,5663,0,11,1,0,1,0,podstawowe,kadra zarządzająca,Warszawa,singiel,lekarz,1
+41,5055,0,9,1,1,0,0,wyższe,umowa zlecenie,Wrocław,wdowiec,lekarz,1
+50,2041,1,21,0,1,1,0,średnie,działalność,Gdańsk,żonaty,programista,1
+29,7495,0,12,1,1,1,0,wyższe,bezrobotny,Poznań,żonaty,lekarz,1
+41,3854,2,4,1,1,0,1,średnie,bezrobotny,Poznań,singiel,nauczyciel,0
+32,6478,4,10,1,1,0,1,średnie,umowa o pracę,Wrocław,rozwiedziony,sprzedawca,0
+51,10148,0,6,1,1,1,1,wyższe,umowa zlecenie,Warszawa,rozwiedziony,programista,0
+24,4161,2,8,1,1,0,1,wyższe,umowa o pracę,Poznań,singiel,lekarz,0
+34,1500,4,5,0,1,0,0,średnie,umowa o pracę,Wrocław,rozwiedziony,kierowca,0
+43,5427,0,20,1,1,0,0,średnie,bezrobotny,Kraków,singiel,sprzedawca,1
+55,8201,1,6,0,1,1,0,wyższe,umowa zlecenie,Poznań,singiel,księgowy,1
+39,9916,0,13,1,1,1,0,średnie,umowa o pracę,Kraków,żonaty,programista,1
+34,3540,1,8,1,1,1,0,podstawowe,umowa zlecenie,Warszawa,żonaty,kierowca,1
+58,6993,0,4,1,1,0,0,wyższe,działalność,Poznań,singiel,księgowy,1
+25,5069,0,10,1,1,1,0,podstawowe,umowa o pracę,Wrocław,singiel,kierowca,1
+18,5788,2,12,1,1,0,1,podstawowe,bezrobotny,Gdańsk,wdowiec,lekarz,0
+44,11288,0,12,1,1,0,0,podstawowe,umowa o pracę,Poznań,żonaty,programista,1
+34,2994,2,0,1,1,1,1,średnie,bezrobotny,Poznań,żonaty,lekarz,0
+29,6507,1,3,1,1,0,0,średnie,umowa zlecenie,Poznań,singiel,księgowy,1
+47,6935,3,14,1,1,1,0,średnie,umowa zlecenie,Poznań,singiel,nauczyciel,1
+42,8171,4,5,0,1,1,0,średnie,działalność,Wrocław,singiel,kierowca,1
+34,6195,0,11,1,1,0,0,średnie,kadra zarządzająca,Wrocław,singiel,nauczyciel,1
+27,6616,2,3,1,1,1,0,średnie,działalność,Gdańsk,singiel,księgowy,1
+48,5216,0,13,0,1,1,0,podstawowe,umowa zlecenie,Wrocław,singiel,lekarz,1
+46,6538,1,14,0,1,1,0,wyższe,umowa zlecenie,Wrocław,żonaty,sprzedawca,1
+39,5313,1,13,1,1,0,0,średnie,umowa o pracę,Warszawa,singiel,kierowca,1
+58,7243,1,15,0,1,1,0,wyższe,umowa o pracę,Warszawa,rozwiedziony,sprzedawca,1
+29,5260,1,17,1,1,0,0,podstawowe,kadra zarządzająca,Kraków,singiel,programista,1
+24,6754,0,4,1,0,1,0,wyższe,umowa zlecenie,Gdańsk,żonaty,kierowca,1
+33,5941,2,6,1,1,0,0,średnie,bezrobotny,Warszawa,singiel,nauczyciel,1
+39,8252,3,14,0,0,1,0,podstawowe,umowa o pracę,Gdańsk,żonaty,sprzedawca,0
+42,5897,2,15,1,1,0,0,wyższe,działalność,Gdańsk,singiel,księgowy,1
+37,2453,0,6,1,1,0,0,wyższe,działalność,Poznań,wdowiec,programista,0
+43,8523,1,6,1,1,1,0,średnie,umowa o pracę,Gdańsk,żonaty,kierowca,1
+27,4188,0,6,1,1,1,0,wyższe,kadra zarządzająca,Poznań,żonaty,księgowy,0
+54,4692,1,1,1,1,1,0,średnie,umowa o pracę,Kraków,singiel,programista,0
+39,4808,1,3,1,0,1,0,wyższe,kadra zarządzająca,Kraków,żonaty,nauczyciel,0
+51,8748,3,3,1,1,0,0,średnie,kadra zarządzająca,Kraków,żonaty,księgowy,1
+43,1728,3,8,1,1,1,0,średnie,działalność,Poznań,singiel,kierowca,1
+44,12275,2,11,1,1,1,0,średnie,umowa zlecenie,Poznań,żonaty,programista,1
+45,8112,0,12,1,1,0,0,średnie,umowa zlecenie,Kraków,rozwiedziony,lekarz,1
+44,6446,1,7,0,1,1,0,wyższe,umowa o pracę,Poznań,żonaty,kierowca,1
+46,5890,1,7,0,0,1,0,podstawowe,umowa o pracę,Wrocław,rozwiedziony,kierowca,0
+53,6571,2,10,1,1,1,0,podstawowe,działalność,Wrocław,rozwiedziony,kierowca,1
+41,7042,3,2,1,0,1,0,średnie,umowa zlecenie,Poznań,rozwiedziony,kierowca,1
+47,7290,1,14,1,1,1,0,średnie,umowa zlecenie,Poznań,żonaty,lekarz,1
+39,7111,3,16,1,1,0,0,podstawowe,działalność,Warszawa,żonaty,księgowy,1
+54,6179,1,6,0,1,0,0,średnie,bezrobotny,Warszawa,żonaty,księgowy,1
+33,5605,0,8,1,1,1,1,wyższe,umowa zlecenie,Gdańsk,żonaty,księgowy,0
+58,5697,2,16,0,1,0,1,średnie,umowa o pracę,Gdańsk,wdowiec,nauczyciel,0
+39,5610,1,9,1,1,0,0,średnie,umowa o pracę,Gdańsk,singiel,lekarz,1
+25,8267,2,12,1,1,1,0,wyższe,umowa zlecenie,Kraków,singiel,lekarz,1
+41,7187,2,9,1,1,1,0,średnie,działalność,Wrocław,singiel,programista,1
+33,1500,3,17,1,1,0,0,wyższe,umowa o pracę,Kraków,singiel,sprzedawca,0
+48,7311,0,12,1,1,1,1,wyższe,kadra zarządzająca,Poznań,singiel,księgowy,0
+33,6389,3,12,1,1,1,1,średnie,umowa o pracę,Warszawa,żonaty,sprzedawca,1
+35,5962,2,12,0,1,0,0,średnie,umowa zlecenie,Poznań,singiel,programista,0
+21,5222,2,7,0,1,1,0,średnie,umowa zlecenie,Poznań,żonaty,lekarz,1
+35,8248,3,7,1,1,1,0,średnie,bezrobotny,Warszawa,żonaty,programista,1
+18,7895,0,13,1,1,1,0,wyższe,umowa o pracę,Poznań,singiel,kierowca,1
+24,4454,1,10,1,1,1,1,średnie,umowa zlecenie,Gdańsk,singiel,programista,0
+47,6814,2,4,1,1,0,1,średnie,umowa o pracę,Warszawa,żonaty,programista,0
+47,4056,0,19,1,1,1,0,średnie,umowa o pracę,Poznań,żonaty,kierowca,1
+44,3240,2,14,1,1,0,0,podstawowe,umowa zlecenie,Gdańsk,rozwiedziony,sprzedawca,1
+30,4746,1,10,1,1,1,0,podstawowe,umowa zlecenie,Gdańsk,rozwiedziony,kierowca,1
+39,7724,1,8,0,1,1,0,wyższe,działalność,Wrocław,wdowiec,nauczyciel,1
+39,7906,2,10,0,1,1,1,średnie,kadra zarządzająca,Gdańsk,żonaty,programista,0
+28,7026,0,12,1,1,0,0,średnie,umowa zlecenie,Kraków,rozwiedziony,programista,1
+55,7450,1,0,0,1,0,0,średnie,umowa zlecenie,Warszawa,rozwiedziony,sprzedawca,1
+48,7032,0,20,0,1,0,0,wyższe,kadra zarządzająca,Warszawa,rozwiedziony,lekarz,0
+37,4717,2,6,0,1,1,1,średnie,bezrobotny,Warszawa,singiel,kierowca,0
+40,6863,2,9,1,1,0,0,wyższe,kadra zarządzająca,Poznań,wdowiec,lekarz,1
+42,7600,2,10,1,1,1,1,średnie,bezrobotny,Poznań,żonaty,nauczyciel,0
+19,7508,1,19,1,1,0,1,wyższe,działalność,Kraków,żonaty,kierowca,0
+37,8377,2,9,1,1,1,1,średnie,umowa zlecenie,Gdańsk,singiel,nauczyciel,0
+33,7416,2,17,1,1,0,0,średnie,kadra zarządzająca,Poznań,singiel,nauczyciel,1
+29,6702,2,12,1,1,1,0,średnie,umowa zlecenie,Gdańsk,singiel,nauczyciel,1
+37,8140,0,5,0,1,1,0,średnie,umowa o pracę,Gdańsk,singiel,księgowy,1
+57,5946,1,10,0,1,1,0,podstawowe,bezrobotny,Poznań,singiel,kierowca,1
+46,4236,0,9,1,0,1,0,średnie,umowa zlecenie,Poznań,rozwiedziony,kierowca,1
+34,5673,3,4,1,1,1,0,średnie,działalność,Kraków,singiel,księgowy,1
+45,4510,0,11,1,1,1,0,podstawowe,umowa o pracę,Wrocław,singiel,sprzedawca,0
